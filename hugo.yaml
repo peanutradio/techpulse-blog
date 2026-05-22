@@ -1,19 +1,20 @@
 baseURL: "https://peanutradio.github.io/techpulse-blog/"
 locale: ko
-title: TechPulse Blog
+title: TechPulse
 theme: PaperMod
 
 defaultContentLanguage: ko
 hasCJKLanguage: true
 
-paginate: 10
+paginate: 12
 
 params:
   author: TechPulse
-  description: "Microsoft 기술, IT 뉴스, 클라우드, AI, 보안 전문 블로그"
-  keywords: ["Azure", "Microsoft", "GitHub", "AI", "보안", "IT뉴스", "M365", "Copilot"]
+  description: "Microsoft 기술 생태계 · AI · IT 뉴스 · 클라우드 전문 블로그"
+  keywords: ["Azure", "Microsoft", "GitHub", "AI", "보안", "IT뉴스", "M365", "Copilot", "클라우드"]
 
-  defaultTheme: auto
+  defaultTheme: dark
+  disableThemeToggle: false
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
@@ -21,54 +22,70 @@ params:
   ShowCodeCopyButtons: true
   ShowToc: true
   TocOpen: false
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
 
   homeInfoParams:
-    Title: "TechPulse Blog"
-    Content: "Microsoft 기술 생태계와 최신 IT 뉴스를 빠르게 전달합니다."
+    Title: "TechPulse"
+    Content: |
+      Microsoft 기술 생태계 · AI · 클라우드 · IT 뉴스를 빠르게 전달합니다.
+      Azure, GitHub, AI Foundry, M365 Copilot을 깊이 있게 다룹니다.
 
   socialIcons:
     - name: github
       url: "https://github.com/peanutradio/techpulse-blog"
+    - name: rss
+      url: "/techpulse-blog/index.xml"
 
   label:
-    text: "TechPulse"
+    text: "⚡ TechPulse"
+
+  assets:
+    disableHLJS: false
+    favicon: "/techpulse-blog/favicon.ico"
 
 menu:
   main:
-    - identifier: nav-home
-      name: 홈
-      url: /
-      weight: 1
+    - identifier: nav-microsoft
+      name: Microsoft
+      url: /microsoft/
+      weight: 10
     - identifier: nav-ms-azure
       name: Azure
       url: /microsoft/azure/
-      weight: 10
-    - identifier: nav-ms-github
-      name: GitHub
-      url: /microsoft/github/
+      parent: nav-microsoft
       weight: 11
     - identifier: nav-ms-ai-foundry
       name: AI Foundry
       url: /microsoft/ai-foundry/
+      parent: nav-microsoft
       weight: 12
+    - identifier: nav-ms-github
+      name: GitHub
+      url: /microsoft/github/
+      parent: nav-microsoft
+      weight: 13
     - identifier: nav-ms-fabric
       name: Fabric
       url: /microsoft/fabric/
-      weight: 13
+      parent: nav-microsoft
+      weight: 14
     - identifier: nav-ms-security
       name: Security
       url: /microsoft/security/
-      weight: 14
+      parent: nav-microsoft
+      weight: 15
     - identifier: nav-ms-m365-copilot
       name: M365 Copilot
       url: /microsoft/m365-copilot/
-      weight: 15
+      parent: nav-microsoft
+      weight: 16
     - identifier: nav-it-news
       name: IT 뉴스
       url: /it-news/
       weight: 20
     - identifier: nav-market-board
-      name: 주식/크립토
+      name: 📈 마켓
       url: /market-board/
       weight: 25
     - identifier: nav-tags
@@ -78,6 +95,7 @@ menu:
 
 taxonomies:
   tag: tags
+  category: categories
 
 outputs:
   home:
