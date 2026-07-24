@@ -1,8 +1,8 @@
 ---
 categories:
 - 시황
-date: '2026-07-24T05:47:17+00:00'
-description: 'BTC $65,260 (-0.6%) | Fear & Greed: 28 (Fear)'
+date: '2026-07-24T08:26:29+00:00'
+description: 'BTC $65,318 (-0.4%) | Fear & Greed: 28 (Fear)'
 draft: false
 tags:
 - 크립토
@@ -18,43 +18,43 @@ title: 크립토 데일리 시황 — 2026-07-24
 
 ## 시장 개요
 
-- 총 시가총액: **$2.30T** (-0.9%)
+- 총 시가총액: **$2.31T** (-0.6%)
 - BTC 도미넌스: **56.8%**
 
 ## 주요 코인 시세
 
 | 코인 | 가격 | 24h | 7d | 거래량(24h) |
 |------|------|-----|-----|------------|
-| Bitcoin (BTC) | $65,260.00 | -0.6% | +2.7% | $24588M |
-| Ethereum (ETH) | $1,879.95 | -2.4% | +1.3% | $9523M |
-| XRP (XRP) | $1.11 | -2.4% | +1.3% | $1000M |
-| Solana (SOL) | $75.79 | -2.5% | +0.6% | $1533M |
-| Chainlink (LINK) | $8.44 | -1.9% | +1.7% | $156M |
-| Cardano (ADA) | $0.17 | -3.9% | +4.3% | $227M |
-| Avalanche (AVAX) | $6.28 | -4.1% | -4.0% | $154M |
-| Polkadot (DOT) | $0.82 | -1.1% | -5.4% | $63M |
-| Cosmos Hub (ATOM) | $1.42 | -1.7% | -5.4% | $24M |
+| Bitcoin (BTC) | $65,318.00 | -0.4% | +4.1% | $25784M |
+| Ethereum (ETH) | $1,887.37 | -1.5% | +3.5% | $9816M |
+| XRP (XRP) | $1.11 | -2.0% | +2.5% | $1091M |
+| Solana (SOL) | $75.75 | -1.9% | +2.0% | $1550M |
+| Chainlink (LINK) | $8.52 | -0.3% | +4.6% | $160M |
+| Cardano (ADA) | $0.17 | -3.5% | +5.7% | $230M |
+| Avalanche (AVAX) | $6.25 | -4.6% | -3.3% | $160M |
+| Polkadot (DOT) | $0.81 | -1.4% | -4.6% | $69M |
+| Cosmos Hub (ATOM) | $1.42 | -2.8% | -5.6% | $22M |
 | MATIC (migrated to POL) (MATIC) | $0.13 | -18.6% | -18.6% | $0M |
 
 ## 트렌딩 코인
 
-1. **ADI** (ADI) — 마켓캡 순위 #348
-2. **DeXe** (DEXE) — 마켓캡 순위 #270
-3. **Solana** (SOL) — 마켓캡 순위 #7
-4. **Bitcoin** (BTC) — 마켓캡 순위 #1
-5. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #113
-6. **Stacks** (STX) — 마켓캡 순위 #137
-7. **Kaspa** (KAS) — 마켓캡 순위 #78
+1. **Cash Cat** (CASHCAT) — 마켓캡 순위 #395
+2. **DeXe** (DEXE) — 마켓캡 순위 #254
+3. **Bitcoin** (BTC) — 마켓캡 순위 #1
+4. **Akedo** (AKE) — 마켓캡 순위 #396
+5. **Zama** (ZAMA) — 마켓캡 순위 #241
+6. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #113
+7. **Pons** (PONS) — 마켓캡 순위 #603
 
 ## 주요 뉴스
 
-- [BitMEX hit with 623 BTC lawsuit on day it announces shutdown](https://cointelegraph.com/news/bitmex-liquidation-fraud-lawsuit-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
-- [금값 떨어지자 중국이 샀다…6월 금 수입 2년래 최고](https://www.blockmedia.co.kr/archives/1120311?utm_source=general&utm_medium=rss) — *블록미디어*
-- [Bitcoin holds near $65,000 as $800 billion AI selloff leaves crypto largely untouched](https://www.coindesk.com/markets/2026/07/24/bitcoin-holds-near-usd65-000-as-usd800-billion-ai-selloff-leaves-crypto-largely-untouched) — *CoinDesk*
-- [[파생시황] 롱으로 기운 시장, 브레이크 밟는 고래… 거래소별 ‘엇갈린 베팅’](https://www.blockmedia.co.kr/archives/1120295?utm_source=general&utm_medium=rss) — *블록미디어*
-- [NHN KCP·아발란체, 스테이블코인 결제 공개…2초 승인·1시간 정산 검증](https://www.blockmedia.co.kr/archives/1119971?utm_source=general&utm_medium=rss) — *블록미디어*
-- [[파생시황] 레버리지 조정에 롱 ‘연쇄 청산’… 하루 새 2억5540만달러 증발](https://www.blockmedia.co.kr/archives/1120274?utm_source=general&utm_medium=rss) — *블록미디어*
-- [Dem senator calls GOP’s CLARITY ethics proposal a ‘piece of shit’: Politico](https://cointelegraph.com/news/senator-gallego-says-gop-clarity-counterproposal-not-a-serious-effort?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
-- [전설로 떠나는 비트멕스, 영욕의 12년과 ‘무기한 선물’이라는 유산](https://www.blockmedia.co.kr/archives/1120259?utm_source=general&utm_medium=rss) — *블록미디어*
-- [BitMEX delists 65 trading pairs, derivatives in July amid exchange shutdown](https://cointelegraph.com/news/bitmex-delists-65-crypto-markets-in-july-amid-exchange-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
-- [유가 100달러 시대 다시 오나… 브렌트유 급등에 비트코인 ‘매크로 역풍’ 경계](https://www.blockmedia.co.kr/archives/1120251?utm_source=general&utm_medium=rss) — *블록미디어*
+- [EU widens Belarus ownership ban to all crypto service providers](https://cointelegraph.com/news/eu-belarus-crypto-ownership-ban-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
+- [로빈후드 CEO “우리는 어떤 코인도 발행하지 않았다”⋯ 해킹 후 첫 공식 입장](https://www.blockmedia.co.kr/archives/1120341?utm_source=general&utm_medium=rss) — *블록미디어*
+- [Live updates: Dogecoin and ether lead pullback as investors digest tech earnings](https://www.coindesk.com/tech/2026/07/24/live-updates-dogecoin-and-ether-lead-pullback-as-investors-digest-tech-earnings) — *CoinDesk*
+- [Bitcoin ETFs snap seven-day inflow streak with $225M in outflows](https://cointelegraph.com/markets/bitcoin-etfs-225-million-outflow-end-7-day-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
+- [[마감시황] 미·이란 충돌에 유가 급등…코스피, 6700선 붕괴](https://www.blockmedia.co.kr/archives/1120337?utm_source=general&utm_medium=rss) — *블록미디어*
+- [이더리움 ETF, ‘5거래일 연속’ 순유입 행진…누적 2억달러 유입](https://www.blockmedia.co.kr/archives/1120327?utm_source=general&utm_medium=rss) — *블록미디어*
+- [Ripple’s RLUSD gets two boosts as transfer volume drops 25%](https://www.coindesk.com/business/2026/07/24/ripple-s-rlusd-gets-two-boosts-as-transfer-volume-drops-25) — *CoinDesk*
+- [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
+- [The Largest Stablecoins Ranked](https://www.theblock.co/learn/409203/largest-stablecoins-ranked?utm_source=rss&utm_medium=rss) — *The Block*
+- [Mirae plans to turn crypto exchange Korbit into something Korea hasn't seen before](https://www.coindesk.com/markets/2026/07/24/mirae-asset-has-a-name-for-what-it-s-building-with-korbit-an-intelligent-platform) — *CoinDesk*
