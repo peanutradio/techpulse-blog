@@ -1,8 +1,8 @@
 ---
 categories:
 - 시황
-date: '2026-07-28T02:39:04+00:00'
-description: 'BTC $63,153 (-3.0%) | Fear & Greed: 29 (Fear)'
+date: '2026-07-28T05:43:39+00:00'
+description: 'BTC $63,455 (-3.0%) | Fear & Greed: 29 (Fear)'
 draft: false
 tags:
 - 크립토
@@ -18,43 +18,43 @@ title: 크립토 데일리 시황 — 2026-07-28
 
 ## 시장 개요
 
-- 총 시가총액: **$2.25T** (-2.7%)
-- BTC 도미넌스: **56.3%**
+- 총 시가총액: **$2.26T** (-2.9%)
+- BTC 도미넌스: **56.4%**
 
 ## 주요 코인 시세
 
 | 코인 | 가격 | 24h | 7d | 거래량(24h) |
 |------|------|-----|-----|------------|
-| Bitcoin (BTC) | $63,153.00 | -3.0% | -3.6% | $26492M |
-| Ethereum (ETH) | $1,875.66 | -3.6% | -2.1% | $11942M |
-| XRP (XRP) | $1.06 | -4.7% | -5.3% | $1214M |
-| Solana (SOL) | $73.29 | -4.2% | -6.3% | $1816M |
-| Chainlink (LINK) | $8.33 | -5.2% | -3.3% | $221M |
-| Cardano (ADA) | $0.15 | -6.8% | -9.7% | $286M |
-| Avalanche (AVAX) | $6.40 | -5.3% | -3.6% | $173M |
-| Polkadot (DOT) | $0.76 | -8.0% | -8.5% | $97M |
-| Cosmos Hub (ATOM) | $1.30 | -7.6% | -13.9% | $29M |
+| Bitcoin (BTC) | $63,455.00 | -3.0% | -3.4% | $27114M |
+| Ethereum (ETH) | $1,883.77 | -3.6% | -2.5% | $11865M |
+| XRP (XRP) | $1.06 | -4.6% | -6.1% | $1255M |
+| Solana (SOL) | $73.29 | -4.2% | -6.4% | $1827M |
+| Chainlink (LINK) | $8.34 | -4.9% | -3.4% | $215M |
+| Cardano (ADA) | $0.16 | -6.1% | -10.0% | $292M |
+| Avalanche (AVAX) | $6.42 | -3.7% | -3.0% | $171M |
+| Polkadot (DOT) | $0.77 | -6.8% | -9.1% | $100M |
+| Cosmos Hub (ATOM) | $1.30 | -7.0% | -13.6% | $30M |
 | MATIC (migrated to POL) (MATIC) | $0.13 | -18.6% | -18.6% | $0M |
 
 ## 트렌딩 코인
 
-1. **Casper Network** (CSPR) — 마켓캡 순위 #684
-2. **COTI** (COTI) — 마켓캡 순위 #470
-3. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #113
-4. **Hyperliquid** (HYPE) — 마켓캡 순위 #10
-5. **Ethereum** (ETH) — 마켓캡 순위 #2
-6. **Shiba Inu** (SHIB) — 마켓캡 순위 #33
-7. **Ondo** (ONDO) — 마켓캡 순위 #41
+1. **AEON** (AEON) — 마켓캡 순위 #862
+2. **Hyperliquid** (HYPE) — 마켓캡 순위 #10
+3. **Lighter** (LIT) — 마켓캡 순위 #96
+4. **COTI** (COTI) — 마켓캡 순위 #528
+5. **Bitcoin** (BTC) — 마켓캡 순위 #1
+6. **Solana** (SOL) — 마켓캡 순위 #7
+7. **Lorenzo Protocol** (BANK) — 마켓캡 순위 #202
 
 ## 주요 뉴스
 
-- [SK하이닉스 프리마켓 이상 거래…하이퍼리퀴드 SKHX 18% 급락, 1억2800만달러 청산](https://www.blockmedia.co.kr/archives/1121266?utm_source=general&utm_medium=rss) — *블록미디어*
-- [Hong Kong prepares banks for quantum threats amid tokenization push](https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
-- [美 상원, 디지털자산 ‘클래리티 법안’ 처리 연기…러시아 제재안 우선 심사](https://www.blockmedia.co.kr/archives/1121264?utm_source=general&utm_medium=rss) — *블록미디어*
-- [What Is a Digital Commodity?](https://www.theblock.co/learn/409682/what-is-a-digital-commodity?utm_source=rss&utm_medium=rss) — *The Block*
-- [7500억달러 AI 베팅의 역설…엔비디아 CDS 급등이 보내는 경고](https://www.blockmedia.co.kr/archives/1121261?utm_source=general&utm_medium=rss) — *블록미디어*
-- [Binance phishs its own staff monthly, India censors BitChat code: Asia Express](https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
-- [[개장시황] 코스피, 미국 반도체株 급락에 6%대 폭락…매도 사이드카 발동](https://www.blockmedia.co.kr/archives/1121232?utm_source=general&utm_medium=rss) — *블록미디어*
-- [U.S. Senate puts off crypto Clarity Act for now as it focuses limited bandwidth elsewhere](https://www.coindesk.com/policy/2026/07/27/u-s-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-elsewhere) — *CoinDesk*
-- [Kalshi, Polymarket win pause against Minnesota's prediction market ban](https://www.coindesk.com/policy/2026/07/27/kalshi-polymarket-win-pause-against-minnesota-s-prediction-market-ban) — *CoinDesk*
-- [[코인시황] 비트코인, 깜짝 금리인상 전망에 9300만원선으로 후퇴](https://www.blockmedia.co.kr/archives/1121217?utm_source=general&utm_medium=rss) — *블록미디어*
+- [What Is KuCoin?](https://www.theblock.co/learn/409571/what-is-kucoin?utm_source=rss&utm_medium=rss) — *The Block*
+- [[펀드플로] 비트코인 ETF 하루 만에 순유출 전환…이더리움 ETF는 923만달러 순유입](https://www.blockmedia.co.kr/archives/1121358?utm_source=general&utm_medium=rss) — *블록미디어*
+- [상승해도 판다, 하락하면 더 판다…골드만삭스 CTA 모델이 경고한 美 증시 매도 압력](https://www.blockmedia.co.kr/archives/1121313?utm_source=general&utm_medium=rss) — *블록미디어*
+- [머스크 “인류, 10년 안에 AI 통제권 잃을 것… 안전·보안 공동 점검해야”](https://www.blockmedia.co.kr/archives/1121300?utm_source=general&utm_medium=rss) — *블록미디어*
+- [Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%](https://www.coindesk.com/markets/2026/07/28/bitcoin-slides-2-after-u-s-close-while-korea-s-kospi-plunges-10) — *CoinDesk*
+- [단 1주가 1억2800만달러 청산으로…SK하이닉스 딜미스에 흔들린 하이퍼리퀴드](https://www.blockmedia.co.kr/archives/1121329?utm_source=general&utm_medium=rss) — *블록미디어*
+- [US judge temporarily blocks Minnesota prediction market ban](https://cointelegraph.com/news/us-judge-blocks-minnesota-prediction-market-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
+- [미 기술 비평가 “데이터센터 부채, 2008년 서브프라임 사태와 닮았다” 경고](https://www.blockmedia.co.kr/archives/1121271?utm_source=general&utm_medium=rss) — *블록미디어*
+- [[롱/숏] 알트코인도 ‘숏’으로 기울었다…SOL·XRP·DOGE 하락 베팅 확대, 시장은 변곡점 주목](https://www.blockmedia.co.kr/archives/1121301?utm_source=general&utm_medium=rss) — *블록미디어*
+- [Zimbabwe admits seven fintech projects to regulatory sandbox](https://cointelegraph.com/news/zimbabwe-seven-fintech-projects-regulatory-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
