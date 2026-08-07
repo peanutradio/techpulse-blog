@@ -1,8 +1,8 @@
 ---
 categories:
 - 시황
-date: '2026-08-07T04:51:35+00:00'
-description: 'BTC $64,204 (-0.4%) | Fear & Greed: 29 (Fear)'
+date: '2026-08-07T07:13:28+00:00'
+description: 'BTC $64,301 (-0.8%) | Fear & Greed: 29 (Fear)'
 draft: false
 tags:
 - 크립토
@@ -18,43 +18,43 @@ title: 크립토 데일리 시황 — 2026-08-07
 
 ## 시장 개요
 
-- 총 시가총액: **$2.27T** (-0.5%)
+- 총 시가총액: **$2.28T** (-0.7%)
 - BTC 도미넌스: **56.6%**
 
 ## 주요 코인 시세
 
 | 코인 | 가격 | 24h | 7d | 거래량(24h) |
 |------|------|-----|-----|------------|
-| Bitcoin (BTC) | $64,204.00 | -0.4% | +0.1% | $18355M |
-| Ethereum (ETH) | $1,896.07 | +0.0% | -0.3% | $6821M |
-| XRP (XRP) | $1.02 | -2.3% | -5.5% | $1393M |
-| Solana (SOL) | $72.66 | -1.2% | -1.9% | $1387M |
-| Cardano (ADA) | $0.20 | +5.1% | +17.5% | $749M |
-| Chainlink (LINK) | $8.14 | +0.5% | -2.4% | $171M |
-| Avalanche (AVAX) | $6.40 | -3.5% | +0.0% | $195M |
-| Polkadot (DOT) | $0.82 | -2.6% | +7.3% | $81M |
-| Cosmos Hub (ATOM) | $1.35 | +1.5% | +7.2% | $22M |
+| Bitcoin (BTC) | $64,301.00 | -0.8% | +0.0% | $18210M |
+| Ethereum (ETH) | $1,904.77 | -0.4% | +0.0% | $6800M |
+| XRP (XRP) | $1.03 | -2.3% | -4.9% | $1452M |
+| Solana (SOL) | $72.90 | -1.8% | -1.8% | $1368M |
+| Cardano (ADA) | $0.20 | +7.1% | +19.3% | $785M |
+| Chainlink (LINK) | $8.19 | +0.0% | -2.1% | $170M |
+| Avalanche (AVAX) | $6.42 | -3.7% | -0.5% | $199M |
+| Polkadot (DOT) | $0.82 | -2.5% | +6.2% | $80M |
+| Cosmos Hub (ATOM) | $1.35 | +1.3% | +9.5% | $22M |
 | MATIC (migrated to POL) (MATIC) | $0.13 | -18.6% | -18.6% | $0M |
 
 ## 트렌딩 코인
 
-1. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #109
-2. **Hyperliquid** (HYPE) — 마켓캡 순위 #10
-3. **Block Street** (BSB) — 마켓캡 순위 #528
-4. **Lighter** (LIT) — 마켓캡 순위 #89
-5. **Cash Cat** (CASHCAT) — 마켓캡 순위 #283
-6. **Kamino** (KMNO) — 마켓캡 순위 #251
-7. **Ondo** (ONDO) — 마켓캡 순위 #43
+1. **Cash Cat** (CASHCAT) — 마켓캡 순위 #267
+2. **Block Street** (BSB) — 마켓캡 순위 #535
+3. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #109
+4. **XRP** (XRP) — 마켓캡 순위 #6
+5. **Lighter** (LIT) — 마켓캡 순위 #89
+6. **Canton** (CC) — 마켓캡 순위 #27
+7. **Kaspa** (KAS) — 마켓캡 순위 #79
 
 ## 주요 뉴스
 
-- [Bitcoin wallet dormant since 2011 moves $3.2 million toward FalconX-linked address](https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address) — *CoinDesk*
-- [A case for a bitcoin surge to $76,000 may be building beneath the boring price action, but there's a caveat](https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat) — *CoinDesk*
-- [이더리움 현물 ETF, 사흘 연속 순증…블랙록 ETHA 하루 8114만달러 유입](https://www.blockmedia.co.kr/archives/1125251?utm_source=general&utm_medium=rss) — *블록미디어*
-- [[롱/숏] XRP·DOGE 롱 우세, SOL은 숏 압력 지속…비트코인 횡보에 알트 베팅 엇갈려](https://www.blockmedia.co.kr/archives/1125235?utm_source=general&utm_medium=rss) — *블록미디어*
-- [비트코인 현물 ETF, 나흘 연속 순유입…블랙록 하루 1억2800만달러 흡수](https://www.blockmedia.co.kr/archives/1125245?utm_source=general&utm_medium=rss) — *블록미디어*
-- [XRP leads majors losses as Clarity Act vote slips to September](https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september) — *CoinDesk*
-- [Cathie Wood’s Ark Invest buys $21 million in Block as stock drops 6%](https://www.theblock.co/post/411075/cathie-wood-ark-invest-buys-21-million-block?utm_source=rss&utm_medium=rss) — *The Block*
-- [“현 CEO 해임하라”… 온도파이낸스 故네이선 올먼 모친, 경영권 소송 제기](https://www.blockmedia.co.kr/archives/1125203?utm_source=general&utm_medium=rss) — *블록미디어*
-- [BlackRock’s crypto ETFs shed $3.5 billion as last year’s creation boom turns into redemptions](https://cryptoslate.com/blackrocks-crypto-etfs-shed-3-5-billion-as-last-years-creation-boom-turns-into-redemptions/) — *CryptoSlate*
-- [[파생시황] 비트코인, 거래는 말랐는데 청산은 쌓였다…6만5000달러 ‘승부처’](https://www.blockmedia.co.kr/archives/1125220?utm_source=general&utm_medium=rss) — *블록미디어*
+- [Former OpenAI researcher predicts brain-controlled AI coding agents by 2027](https://cryptoslate.com/former-openai-researcher-predicts-brain-controlled-ai-coding-agents-by-2027/) — *CryptoSlate*
+- [테더, 금 보유 146톤으로 세계 최대 민간 보유자 등극…준비금 10%가 금](https://www.blockmedia.co.kr/archives/1125239?utm_source=general&utm_medium=rss) — *블록미디어*
+- [[마감시황] 코스피 0.6% 내린 6250선 마감…NXT “12일부터 상·하한가 주문 제한”](https://www.blockmedia.co.kr/archives/1125311?utm_source=general&utm_medium=rss) — *블록미디어*
+- [CoinDesk owner Bullish volume fell 43%, but a 72% spread jump nearly offset the annual decline](https://cryptoslate.com/coindesk-owner-bullish-volume-fell-43-but-a-72-spread-jump-nearly-offset-the-annual-decline/) — *CryptoSlate*
+- [거래소 폐업 잇따르는데 코인 손실 처리는 ‘불명확’…국세청 “과세 기준 마련 중”](https://www.blockmedia.co.kr/archives/1125173?utm_source=general&utm_medium=rss) — *블록미디어*
+- [Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million](https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million) — *CoinDesk*
+- [Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams](https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
+- [클래리티 최종 협상, 트럼프 면세 vs 윤리조항 강화…공화-민주 맞교환 시도(종합)](https://www.blockmedia.co.kr/archives/1125192?utm_source=general&utm_medium=rss) — *블록미디어*
+- [메타마스크도 가세한 ‘AI 에이전트 지갑’ 전쟁…x402 기반 금융 인프라 뜬다](https://www.blockmedia.co.kr/archives/1125273?utm_source=general&utm_medium=rss) — *블록미디어*
+- [Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg](https://cointelegraph.com/news/proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
