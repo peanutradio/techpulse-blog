@@ -1,8 +1,8 @@
 ---
 categories:
 - 시황
-date: '2026-08-10T04:45:23+00:00'
-description: 'BTC $64,957 (+0.2%) | Fear & Greed: 30 (Fear)'
+date: '2026-08-10T07:39:16+00:00'
+description: 'BTC $65,304 (+0.8%) | Fear & Greed: 30 (Fear)'
 draft: false
 tags:
 - 크립토
@@ -18,43 +18,43 @@ title: 크립토 데일리 시황 — 2026-08-10
 
 ## 시장 개요
 
-- 총 시가총액: **$2.30T** (+0.2%)
+- 총 시가총액: **$2.31T** (+0.6%)
 - BTC 도미넌스: **56.7%**
 
 ## 주요 코인 시세
 
 | 코인 | 가격 | 24h | 7d | 거래량(24h) |
 |------|------|-----|-----|------------|
-| Bitcoin (BTC) | $64,957.00 | +0.2% | +2.9% | $14059M |
-| Ethereum (ETH) | $1,915.76 | +0.1% | +2.9% | $4857M |
-| XRP (XRP) | $1.03 | -0.4% | -4.0% | $677M |
-| Solana (SOL) | $76.50 | +1.0% | +4.8% | $1185M |
-| Cardano (ADA) | $0.20 | -1.4% | +4.8% | $209M |
-| Chainlink (LINK) | $8.19 | -1.3% | -1.4% | $147M |
-| Avalanche (AVAX) | $6.50 | +0.2% | +0.1% | $122M |
-| Polkadot (DOT) | $0.80 | -1.8% | +1.1% | $54M |
-| Cosmos Hub (ATOM) | $1.37 | -0.7% | +8.6% | $15M |
+| Bitcoin (BTC) | $65,304.00 | +0.8% | +4.0% | $14225M |
+| Ethereum (ETH) | $1,928.58 | +0.7% | +3.7% | $5130M |
+| XRP (XRP) | $1.04 | +0.2% | -3.2% | $671M |
+| Solana (SOL) | $76.99 | +1.3% | +5.6% | $1172M |
+| Cardano (ADA) | $0.20 | -0.2% | +7.3% | $208M |
+| Chainlink (LINK) | $8.23 | -0.5% | -0.4% | $142M |
+| Avalanche (AVAX) | $6.53 | +1.2% | +1.7% | $127M |
+| Polkadot (DOT) | $0.81 | +0.2% | +1.7% | $57M |
+| Cosmos Hub (ATOM) | $1.38 | +0.2% | +8.9% | $15M |
 | MATIC (migrated to POL) (MATIC) | $0.13 | -18.6% | -18.6% | $0M |
 
 ## 트렌딩 코인
 
 1. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #105
-2. **Tutorial** (TUT) — 마켓캡 순위 #175
-3. **Pump.fun** (PUMP) — 마켓캡 순위 #63
-4. **Cash Cat** (CASHCAT) — 마켓캡 순위 #202
-5. **BOOK OF MEME** (BOME) — 마켓캡 순위 #411
-6. **Ethereum** (ETH) — 마켓캡 순위 #2
-7. **Bubblemaps** (BMT) — 마켓캡 순위 #654
+2. **Cash Cat** (CASHCAT) — 마켓캡 순위 #195
+3. **Pump.fun** (PUMP) — 마켓캡 순위 #62
+4. **Bubblemaps** (BMT) — 마켓캡 순위 #696
+5. **GRVT Token** (GRVT) — 마켓캡 순위 #513
+6. **Tutorial** (TUT) — 마켓캡 순위 #218
+7. **Cap** (CAP) — 마켓캡 순위 #310
 
 ## 주요 뉴스
 
-- [Bitcoin tops $65,000 with US inflation data due this week](https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week) — *CoinDesk*
-- [Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures](https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
-- [XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money](https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money) — *CoinDesk*
-- [클래리티 법안 ‘좌초 아닌 시간 벌기’ …에스퍼 “美 금융안보 위해 필요”](https://www.blockmedia.co.kr/archives/1125880?utm_source=general&utm_medium=rss) — *블록미디어*
-- [Crypto’s first quantum attack will look like unexplained breach: Quantus founder](https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
-- [국민의힘, 디지털자산 과세 3년 유예·폐지 잇따라 발의…정부·여당은 ‘내년 과세’ 고수](https://www.blockmedia.co.kr/archives/1125849?utm_source=general&utm_medium=rss) — *블록미디어*
-- [Investors poured $82 million into Canary’s XRP ETF, but falling prices erased double what they put in](https://cryptoslate.com/investors-poured-82-million-into-canarys-xrp-etf-but-falling-prices-erased-double-what-they-put-in/) — *CryptoSlate*
-- [BIP-110 dies with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9](https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
-- [Ex-US defense secretary calls CLARITY Act a ‘national security bill’](https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
-- [In just 190 seconds, Grayscale quietly pulled the plug on three major altcoin ETFs](https://cryptoslate.com/in-just-190-seconds-grayscale-quietly-pulled-the-plug-on-three-major-altcoin-etfs/) — *CryptoSlate*
+- [UK regulators to prepare tokenized gold framework: Report](https://cointelegraph.com/news/uk-regulators-tokenized-gold-framework-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
+- [Swapping a $23M business for $1M cash while banking on locked WLFI tokens shows how dire crypto balance sheets have become](https://cryptoslate.com/swapping-a-23m-business-for-1m-cash-while-banking-on-locked-wlfi-tokens-shows-how-dire-crypto-balance-sheets-have-become/) — *CryptoSlate*
+- [[마감시황] 코스피, 반등했지만 6300선 회복 실패…코스닥은 7% 폭등](https://www.blockmedia.co.kr/archives/1125986?utm_source=general&utm_medium=rss) — *블록미디어*
+- [Robinhood brings crypto trading to UK in AI-powered all-in-one app](https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance) — *CoinDesk*
+- [Robinhood brings crypto trading to main UK app through Bitstamp](https://www.theblock.co/news/business/2026-08-10-robinhood-uk-crypto-trading-bitstamp-411140?utm_source=rss&utm_medium=rss) — *The Block*
+- [Live updates: BTC above $65,000 even as the Senate punts the CLARITY Act to the fall](https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall) — *CoinDesk*
+- [[상장빔의 민낯] “해외서 고점 찍고 27% 비싸게 입성”… TGE·언락 코인의 ‘기묘한 한국행’](https://www.blockmedia.co.kr/archives/1125280?utm_source=general&utm_medium=rss) — *블록미디어*
+- [This bitcoin miner rejected BIP-110 despite mining through a pool that supported it](https://www.coindesk.com/markets/2026/08/10/bitcoin-miner-rejects-bip-110-despite-mining-through-a-pool-that-supported-it) — *CoinDesk*
+- [Yields are spiking toward 5.2%, but history shows Bitcoin might completely ignore Wall Street’s $125 billion stress test](https://cryptoslate.com/yields-are-spiking-toward-5-2-but-history-shows-bitcoin-might-completely-ignore-wall-streets-125-billion-stress-test/) — *CryptoSlate*
+- [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
