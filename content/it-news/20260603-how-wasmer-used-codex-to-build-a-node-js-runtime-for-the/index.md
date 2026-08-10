@@ -1,0 +1,17 @@
+---
+categories:
+- IT
+date: '2026-06-03T12:00:00+00:00'
+description: See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for
+  the edge, accelerating development 10x to 20x and shipping in weeks instead of months.
+draft: false
+original_url: https://openai.com/index/wasmer
+source: OpenAI Blog
+tags: []
+title: How Wasmer used Codex to build a Node.js runtime for the edge
+---
+
+See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.
+
+---
+*원문: [https://openai.com/index/wasmer](https://openai.com/index/wasmer)*

@@ -1,8 +1,8 @@
 ---
 categories:
 - 시황
-date: '2026-08-10T01:56:26+00:00'
-description: 'BTC $65,166 (+0.0%) | Fear & Greed: 30 (Fear)'
+date: '2026-08-10T02:41:39+00:00'
+description: 'BTC $64,950 (+0.3%) | Fear & Greed: 30 (Fear)'
 draft: false
 tags:
 - 크립토
@@ -18,33 +18,33 @@ title: 크립토 데일리 시황 — 2026-08-10
 
 ## 시장 개요
 
-- 총 시가총액: **$2.31T** (+0.5%)
+- 총 시가총액: **$2.30T** (+0.2%)
 - BTC 도미넌스: **56.7%**
 
 ## 주요 코인 시세
 
 | 코인 | 가격 | 24h | 7d | 거래량(24h) |
 |------|------|-----|-----|------------|
-| Bitcoin (BTC) | $65,166.00 | +0.0% | +2.3% | $13305M |
-| Ethereum (ETH) | $1,923.50 | -0.2% | +1.6% | $4439M |
-| XRP (XRP) | $1.04 | -0.8% | -5.0% | $677M |
-| Solana (SOL) | $76.90 | +0.7% | +4.1% | $1157M |
-| Cardano (ADA) | $0.20 | -1.9% | +3.1% | $209M |
-| Chainlink (LINK) | $8.24 | -1.4% | -2.2% | $142M |
-| Avalanche (AVAX) | $6.52 | -0.2% | -1.3% | $116M |
-| Polkadot (DOT) | $0.80 | -2.0% | +0.1% | $52M |
-| Cosmos Hub (ATOM) | $1.38 | -0.7% | +8.4% | $16M |
+| Bitcoin (BTC) | $64,950.00 | +0.3% | +3.0% | $13623M |
+| Ethereum (ETH) | $1,915.54 | +0.3% | +2.8% | $4567M |
+| XRP (XRP) | $1.03 | -0.3% | -4.0% | $690M |
+| Solana (SOL) | $76.53 | +1.1% | +5.0% | $1167M |
+| Cardano (ADA) | $0.20 | -0.7% | +5.2% | $213M |
+| Chainlink (LINK) | $8.19 | -1.1% | -1.5% | $142M |
+| Avalanche (AVAX) | $6.47 | +0.5% | -0.2% | $114M |
+| Polkadot (DOT) | $0.80 | -1.7% | +0.6% | $52M |
+| Cosmos Hub (ATOM) | $1.37 | -0.6% | +8.8% | $16M |
 | MATIC (migrated to POL) (MATIC) | $0.13 | -18.6% | -18.6% | $0M |
 
 ## 트렌딩 코인
 
-1. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #105
-2. **BOOK OF MEME** (BOME) — 마켓캡 순위 #383
-3. **Pump.fun** (PUMP) — 마켓캡 순위 #63
-4. **Tutorial** (TUT) — 마켓캡 순위 #186
-5. **Sui** (SUI) — 마켓캡 순위 #29
-6. **Cash Cat** (CASHCAT) — 마켓캡 순위 #212
-7. **Ethereum** (ETH) — 마켓캡 순위 #2
+1. **Tutorial** (TUT) — 마켓캡 순위 #183
+2. **BOOK OF MEME** (BOME) — 마켓캡 순위 #414
+3. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #105
+4. **Anoma** (XAN) — 마켓캡 순위 #637
+5. **Pump.fun** (PUMP) — 마켓캡 순위 #63
+6. **Sui** (SUI) — 마켓캡 순위 #29
+7. **Cash Cat** (CASHCAT) — 마켓캡 순위 #211
 
 ## 주요 뉴스
 
