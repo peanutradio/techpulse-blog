@@ -1,8 +1,8 @@
 ---
 categories:
 - 시황
-date: '2026-08-14T02:03:32+00:00'
-description: 'BTC $63,496 (+0.0%) | Fear & Greed: 29 (Fear)'
+date: '2026-08-14T04:45:51+00:00'
+description: 'BTC $63,343 (-0.2%) | Fear & Greed: 29 (Fear)'
 draft: false
 tags:
 - 크립토
@@ -18,43 +18,43 @@ title: 크립토 데일리 시황 — 2026-08-14
 
 ## 시장 개요
 
-- 총 시가총액: **$2.26T** (+0.1%)
+- 총 시가총액: **$2.26T** (-0.4%)
 - BTC 도미넌스: **56.2%**
 
 ## 주요 코인 시세
 
 | 코인 | 가격 | 24h | 7d | 거래량(24h) |
 |------|------|-----|-----|------------|
-| Bitcoin (BTC) | $63,496.00 | +0.0% | -1.3% | $18733M |
-| Ethereum (ETH) | $1,887.12 | +0.4% | -0.9% | $5968M |
-| XRP (XRP) | $1.01 | +0.7% | -2.5% | $820M |
-| Solana (SOL) | $76.01 | +0.7% | +4.6% | $1179M |
-| Cardano (ADA) | $0.18 | +0.4% | -9.6% | $199M |
-| Chainlink (LINK) | $8.84 | +2.2% | +7.6% | $199M |
-| Avalanche (AVAX) | $6.46 | +1.4% | +0.6% | $161M |
-| Polkadot (DOT) | $0.77 | -0.1% | -6.3% | $45M |
-| Cosmos Hub (ATOM) | $1.53 | +8.6% | +12.3% | $40M |
+| Bitcoin (BTC) | $63,343.00 | -0.2% | -1.5% | $18942M |
+| Ethereum (ETH) | $1,884.47 | +0.1% | -0.9% | $5750M |
+| XRP (XRP) | $1.01 | +0.3% | -1.9% | $766M |
+| Solana (SOL) | $75.87 | -0.2% | +4.4% | $1129M |
+| Cardano (ADA) | $0.18 | -0.3% | -8.7% | $199M |
+| Chainlink (LINK) | $8.80 | +1.5% | +7.8% | $194M |
+| Avalanche (AVAX) | $6.43 | -0.2% | -0.1% | $139M |
+| Polkadot (DOT) | $0.76 | -1.4% | -7.0% | $47M |
+| Cosmos Hub (ATOM) | $1.53 | +10.5% | +13.8% | $44M |
 | MATIC (migrated to POL) (MATIC) | $0.13 | -18.6% | -18.6% | $0M |
 
 ## 트렌딩 코인
 
-1. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #108
-2. **OpenEden** (EDEN) — 마켓캡 순위 #602
-3. **Cash Cat** (CASHCAT) — 마켓캡 순위 #187
-4. **SIXSEVEN** (67) — 마켓캡 순위 #604
-5. **Ethereum** (ETH) — 마켓캡 순위 #2
-6. **Pepe** (PEPE) — 마켓캡 순위 #63
-7. **Pump.fun** (PUMP) — 마켓캡 순위 #61
+1. **LAB** (LAB) — 마켓캡 순위 #327
+2. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #108
+3. **OpenEden** (EDEN) — 마켓캡 순위 #602
+4. **Ether.fi** (ETHFI) — 마켓캡 순위 #105
+5. **Pump.fun** (PUMP) — 마켓캡 순위 #62
+6. **Pi Network** (PI) — 마켓캡 순위 #65
+7. **SIXSEVEN** (67) — 마켓캡 순위 #614
 
 ## 주요 뉴스
 
+- [[펀드플로] 美 비트코인 ETF 1억3113만달러 순유출…이더리움은 672만달러 순유입](https://www.blockmedia.co.kr/archives/1127762?utm_source=general&utm_medium=rss) — *블록미디어*
+- [비트코인 반 토막 날 때 해시레이트는 23% 감소 ‘버티기’… “채굴자 항복 제한적”](https://www.blockmedia.co.kr/archives/1127756?utm_source=general&utm_medium=rss) — *블록미디어*
+- [Bitwise mulls tokenizing its Solana staking ETF via Superstate partnership](https://www.theblock.co/news/defi/2026-08-14-bitwise-tokenize-sol-staking-etf-411790) — *The Block*
+- [Washington court orders Kalshi to halt most prediction market offerings in state](https://www.theblock.co/news/regulation/2026-08-13-washington-court-orders-kalshi-411785) — *The Block*
+- [[파생시황] 비트코인 롱 청산 4051만달러…6만3000달러 지지선 시험대](https://www.blockmedia.co.kr/archives/1127729?utm_source=general&utm_medium=rss) — *블록미디어*
+- [비트코인도 S&P500도 아니었다… 3개월 수익률 1위는 ‘포켓몬 카드’](https://www.blockmedia.co.kr/archives/1127720?utm_source=general&utm_medium=rss) — *블록미디어*
+- [GSR, 솔라나 비중 43.6%로 확대…비트코인·이더리움 제치고 ‘최대 비중’](https://www.blockmedia.co.kr/archives/1127683?utm_source=general&utm_medium=rss) — *블록미디어*
+- [Soluna has 6.3 GW of data center projects on paper, only 192 MW are operating](https://cryptoslate.com/soluna-has-6-3-gw-of-data-center-projects-on-paper-only-192-mw-are-operating/) — *CryptoSlate*
+- [Figure reports $4.3B in loan marketplace volume as profit nearly triples](https://cointelegraph.com/news/figure-q2-loan-marketplace-volume-profit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
 - [XRP 현물 ETF, 하루 225만달러 순유입…비트와이즈 주도](https://www.blockmedia.co.kr/archives/1127688?utm_source=general&utm_medium=rss) — *블록미디어*
-- [美 CFTC, 디지털자산·AI 규제 논의 본격화…20일 혁신위 첫 회의](https://www.blockmedia.co.kr/archives/1127682?utm_source=general&utm_medium=rss) — *블록미디어*
-- [Morgan Stanley’s Bitcoin ETF drew $371 million of share contributions while Bitcoin erased $66.8 million](https://cryptoslate.com/morgan-stanleys-bitcoin-etf-drew-371-million-of-share-contributions-while-bitcoin-erased-66-8-million/) — *CryptoSlate*
-- [AI 결제망 x402 보안 취약점…코인베이스 등 15곳 모두 문제 발견](https://www.blockmedia.co.kr/archives/1127669?utm_source=general&utm_medium=rss) — *블록미디어*
-- [Bit Digital pledged 74% of its staked Ethereum position to a loan that can trigger a 24-hour collateral call](https://cryptoslate.com/bit-digital-pledged-74-of-its-staked-ethereum-position-to-a-loan-that-can-trigger-a-24-hour-collateral-call/) — *CryptoSlate*
-- [[개장시황] 코스피, 3주 만에 장중 7000선 탈환…SK하이닉스 5%↑](https://www.blockmedia.co.kr/archives/1127668?utm_source=general&utm_medium=rss) — *블록미디어*
-- [Ethereum Foundation pivots away from Poseidon in post-quantum plan](https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
-- [[코인시황] 비트코인, 6만3000달러대 횡보 장기화…美 증시 최고치에도 ‘잠잠’](https://www.blockmedia.co.kr/archives/1127655?utm_source=general&utm_medium=rss) — *블록미디어*
-- [Multicoin exits the $1.65 billion Solana treasury company it helped launch eight months ago](https://cryptoslate.com/multicoin-exits-the-1-65-billion-solana-treasury-company-it-helped-launch-eight-months-ago/) — *CryptoSlate*
-- [U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns](https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns) — *CoinDesk*
