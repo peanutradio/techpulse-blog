@@ -1,8 +1,8 @@
 ---
 categories:
 - 시황
-date: '2026-08-15T01:41:05+00:00'
-description: 'BTC $62,977 (-0.7%) | Fear & Greed: 34 (Fear)'
+date: '2026-08-15T01:57:29+00:00'
+description: 'BTC $62,966 (-0.7%) | Fear & Greed: 34 (Fear)'
 draft: false
 tags:
 - 크립토
@@ -25,29 +25,30 @@ title: 크립토 데일리 시황 — 2026-08-15
 
 | 코인 | 가격 | 24h | 7d | 거래량(24h) |
 |------|------|-----|-----|------------|
-| Bitcoin (BTC) | $62,977.00 | -0.7% | -3.0% | $19856M |
-| Ethereum (ETH) | $1,882.52 | -0.2% | -1.6% | $4866M |
-| XRP (XRP) | $1.00 | -0.9% | -2.0% | $989M |
-| Solana (SOL) | $75.36 | -1.2% | +2.3% | $1039M |
-| Chainlink (LINK) | $9.19 | +2.3% | +11.0% | $281M |
+| Bitcoin (BTC) | $62,966.00 | -0.7% | -3.0% | $19886M |
+| Ethereum (ETH) | $1,882.12 | -0.2% | -1.6% | $4863M |
+| XRP (XRP) | $1.00 | -0.9% | -2.0% | $986M |
+| Solana (SOL) | $75.34 | -1.2% | +2.3% | $1037M |
+| Chainlink (LINK) | $9.23 | +2.3% | +11.0% | $294M |
 | Cardano (ADA) | $0.18 | -1.5% | -10.4% | $184M |
-| Avalanche (AVAX) | $6.49 | +0.4% | +1.0% | $103M |
-| Polkadot (DOT) | $0.77 | -0.9% | -6.3% | $52M |
+| Avalanche (AVAX) | $6.47 | +0.4% | +1.0% | $108M |
+| Polkadot (DOT) | $0.76 | -0.9% | -6.3% | $52M |
 | Cosmos Hub (ATOM) | $1.50 | +0.3% | +10.5% | $41M |
 | MATIC (migrated to POL) (MATIC) | $0.13 | -18.6% | -18.6% | $0M |
 
 ## 트렌딩 코인
 
 1. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #109
-2. **Fusionist** (ACE) — 마켓캡 순위 #724
-3. **Chainlink** (LINK) — 마켓캡 순위 #17
-4. **XRP** (XRP) — 마켓캡 순위 #6
-5. **Ether.fi** (ETHFI) — 마켓캡 순위 #102
-6. **Ethereum** (ETH) — 마켓캡 순위 #2
-7. **Bitcoin** (BTC) — 마켓캡 순위 #1
+2. **Fusionist** (ACE) — 마켓캡 순위 #723
+3. **Ether.fi** (ETHFI) — 마켓캡 순위 #102
+4. **Ethereum** (ETH) — 마켓캡 순위 #2
+5. **KiiChain** (KII) — 마켓캡 순위 #719
+6. **Chainlink** (LINK) — 마켓캡 순위 #17
+7. **Hyperliquid** (HYPE) — 마켓캡 순위 #10
 
 ## 주요 뉴스
 
+- [체인링크, 112만달러 규모 링크 토큰 추가 매입…보유량 4850만달러 육박](https://www.blockmedia.co.kr/archives/1128109?utm_source=general&utm_medium=rss) — *블록미디어*
 - [점프 크립토, 바이낸스에 9900만달러 비트코인 입금…매도 관측](https://www.blockmedia.co.kr/archives/1128114?utm_source=general&utm_medium=rss) — *블록미디어*
 - [A Bitcoin treasury with $67 million in BTC has just $5,397 in cash and needs money immediately](https://cryptoslate.com/a-bitcoin-treasury-with-67-million-in-btc-has-just-5397-in-cash-and-needs-money-immediately/) — *CryptoSlate*
 - [BNB 체인, 8월25일 ‘파스퇴르’ 하드포크 예정](https://www.blockmedia.co.kr/archives/1128077?utm_source=general&utm_medium=rss) — *블록미디어*
@@ -57,4 +58,3 @@ title: 크립토 데일리 시황 — 2026-08-15
 - [토큰화 연계 주식 11% 급락…SEC 혁신 면제안 지연 논란](https://www.blockmedia.co.kr/archives/1128078?utm_source=general&utm_medium=rss) — *블록미디어*
 - [트럼프家 월드리버티, 美 신탁은행 조건부 예비 승인 받았다](https://www.blockmedia.co.kr/archives/1128073?utm_source=general&utm_medium=rss) — *블록미디어*
 - [Prediction markets are becoming financial data, but a 63% price does not always mean 63% odds](https://cryptoslate.com/prediction-markets-are-becoming-financial-data-but-a-63-price-does-not-always-mean-63-odds/) — *CryptoSlate*
-- [백악관, 코인베이스·NYSE 한자리에… 클래리티법 분수령 맞나](https://www.blockmedia.co.kr/archives/1128069?utm_source=general&utm_medium=rss) — *블록미디어*
