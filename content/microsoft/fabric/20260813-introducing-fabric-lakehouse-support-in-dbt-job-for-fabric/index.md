@@ -1,0 +1,18 @@
+---
+categories:
+- MS
+- Fabric
+date: '2026-08-13T17:00:00+00:00'
+description: 'Fabric Lakehouse plays a central role in many Microsoft Fabric implementations,
+  serving as the foundation where data is prepared, organized, and made ready for '
+draft: false
+original_url: https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Introducing-Fabric-Lakehouse-support-in-dbt-job-for-Microsoft/ba-p/5358240
+source: Microsoft Fabric Blog
+tags: []
+title: Introducing Fabric Lakehouse support in dbt job for Microsoft Fabric (Preview)
+---
+
+Fabric Lakehouse plays a central role in many Microsoft Fabric implementations, serving as the foundation where data is prepared, organized, and made ready for downstream analytics workloads. As more teams adopt dbt alongside Microsoft Fabric, a common goal is to bring transformation workflows closer to that same data foundation. With Fabric Lakehouse support in dbt job, you can run dbt projects directly against Fabric Lakehouse. Whether you're building transformation layers, managing business logic in dbt models, or standardizing analytics engineering practices, Fabric Lakehouse support makes it easier to incorporate dbt into Lakehouse-first architectures.  Bring dbt workflows closer to your data Fabric Lakehouse support in dbt job helps teams:Build transformation layers directly on top of Fabric Lakehouse data.Apply dbt models and testing workflows as part of Lakehouse-based development.Align analytics engineering practices with Lakehouse-first architectures.Develop and manage transformation logic closer to where data is stored and prepared. Set up Fabric Lakehouse in dbt job Fabric Lakehouse support is built directly into the dbt configuration experience, making it easy to connect your project to an existing Lakehouse or create a new one as part of setup. The following steps will allow you to configure Fabric Lakehouse as the target for your dbt project:Open your dbt project.Navigate to dbt configurations.Select Lakehouse from the available adapters.Choose an existing Lakehouse from OneLake or create a new one.If creating a new Lakehouse:Select a workspace.Enter a Lakehouse name.Optionally enable Lakehouse schemas.Select Create and connect.Run your dbt project. A natural fit for Lakehouse-first architectures Many organizations use Fabric Lakehouse as the foundation for preparing and organizing data before it powers downstream analytics workloads. With Fabric Lakehouse support in dbt job, transformation workflows can run directly against that same foundation, helping teams manage business logic, testing, and model development using familiar dbt practices while continuing to build on Fabric Lakehouse. Ready to try it? Fabric Lakehouse support makes it easier to bring dbt workflows closer to where data is stored, prepared, and managed in Microsoft Fabric. To learn more about dbt job capabilities, supported adapters, runtime versions, and setup requirements, review the dbt job in Microsoft Fabric documentation. This documentation includes Fabric Lakehouse as a supported adapter. We'd love to hear how you're using Fabric Lakehouse support in dbt job, what scenarios it enables for your teams, and where you'd like to see us invest next. Please share your feedback, questions, and use cases in the comments below. Your input helps shape future investments in dbt job and ensures we're building capabilities that matter most to our customers.
+
+---
+*원문: [https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Introducing-Fabric-Lakehouse-support-in-dbt-job-for-Microsoft/ba-p/5358240](https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Introducing-Fabric-Lakehouse-support-in-dbt-job-for-Microsoft/ba-p/5358240)*
