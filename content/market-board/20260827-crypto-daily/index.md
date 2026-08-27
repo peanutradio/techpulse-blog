@@ -1,8 +1,8 @@
 ---
 categories:
 - 시황
-date: '2026-08-27T14:02:59+00:00'
-description: 'BTC $79,508 (+1.2%) | Fear & Greed: 71 (Greed)'
+date: '2026-08-27T17:21:43+00:00'
+description: 'BTC $80,776 (+3.2%) | Fear & Greed: 71 (Greed)'
 draft: false
 tags:
 - 크립토
@@ -18,43 +18,43 @@ title: 크립토 데일리 시황 — 2026-08-27
 
 ## 시장 개요
 
-- 총 시가총액: **$2.69T** (-1.3%)
-- BTC 도미넌스: **59.1%**
+- 총 시가총액: **$2.73T** (+0.8%)
+- BTC 도미넌스: **59.2%**
 
 ## 주요 코인 시세
 
 | 코인 | 가격 | 24h | 7d | 거래량(24h) |
 |------|------|-----|-----|------------|
-| Bitcoin (BTC) | $79,508.00 | +1.2% | +10.5% | $29911M |
-| Ethereum (ETH) | $2,496.07 | +1.5% | +9.1% | $14843M |
-| XRP (XRP) | $1.44 | +2.9% | +20.5% | $3670M |
-| Solana (SOL) | $105.96 | +9.5% | +21.7% | $5555M |
-| Chainlink (LINK) | $11.79 | +3.8% | +11.2% | $436M |
-| Cardano (ADA) | $0.21 | +1.8% | +11.1% | $417M |
-| Avalanche (AVAX) | $7.46 | +2.0% | +8.7% | $195M |
-| Polkadot (DOT) | $0.87 | +3.7% | +5.9% | $111M |
-| Cosmos Hub (ATOM) | $1.49 | -2.8% | +1.2% | $39M |
+| Bitcoin (BTC) | $80,776.00 | +3.2% | +11.0% | $33434M |
+| Ethereum (ETH) | $2,532.08 | +3.2% | +8.5% | $16125M |
+| XRP (XRP) | $1.47 | +6.1% | +16.4% | $3819M |
+| Solana (SOL) | $109.43 | +13.2% | +24.9% | $6868M |
+| Chainlink (LINK) | $11.95 | +6.0% | +11.0% | $461M |
+| Cardano (ADA) | $0.22 | +5.8% | +9.7% | $433M |
+| Avalanche (AVAX) | $7.58 | +4.3% | +6.9% | $209M |
+| Polkadot (DOT) | $0.89 | +6.2% | +5.9% | $115M |
+| Cosmos Hub (ATOM) | $1.54 | +2.2% | +3.1% | $41M |
 | MATIC (migrated to POL) (MATIC) | $0.13 | +0.0% | -18.6% | $0M |
 
 ## 트렌딩 코인
 
-1. **Bittensor** (TAO) — 마켓캡 순위 #41
-2. **VeChain** (VET) — 마켓캡 순위 #93
-3. **Bitlayer** (BTR) — 마켓캡 순위 #518
-4. **Solana** (SOL) — 마켓캡 순위 #7
-5. **Pons** (PONS) — 마켓캡 순위 #303
-6. **Cash Cat** (CASHCAT) — 마켓캡 순위 #159
-7. **Bitcoin** (BTC) — 마켓캡 순위 #1
+1. **Ethena** (ENA) — 마켓캡 순위 #53
+2. **Solana** (SOL) — 마켓캡 순위 #7
+3. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #95
+4. **VeChain** (VET) — 마켓캡 순위 #92
+5. **Cash Cat** (CASHCAT) — 마켓캡 순위 #154
+6. **Hyperliquid** (HYPE) — 마켓캡 순위 #10
+7. **Pump.fun** (PUMP) — 마켓캡 순위 #47
 
 ## 주요 뉴스
 
-- [Crypto traders brace for Fed Chair Kevin Warsh’s Jackson Hole speech](https://www.coindesk.com/markets/2026/08/27/bitcoin-holds-near-usd80-000-as-traders-brace-for-warsh-s-jackson-hole-fed-speech) — *CoinDesk*
-- [Chainalysis says global crypto taxable activity topped $457 billion in 2025](https://www.theblock.co/news/regulation/2026-08-27-chainalysis-says-global-crypto-taxable-activity-topped-457-billion-in-2025-412919) — *The Block*
-- [Onslaught of AI-found bugs forces Bitcoin’s Core Lightning into a secret 14-day emergency lockdown](https://cryptoslate.com/onslaught-of-ai-found-bugs-forces-bitcoins-core-lightning-into-a-secret-14-day-emergency-lockdown/) — *CryptoSlate*
-- [솔라나, 100달러 돌파하며 1월 말 이후 최고치…파생상품 거래도 급증](https://www.blockmedia.co.kr/archives/1133009?utm_source=general&utm_medium=rss) — *블록미디어*
-- [Moonwell investigates lending market issue on Base as security firms flag multimillion-dollar exploit](https://www.theblock.co/news/defi/2026-08-27-moonwell-investigates-base-lending-market-issue-412913) — *The Block*
-- [Bank of England set for new innovation mandate covering stablecoins](https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
-- [SEC crypto custody rewrite enters White House review with key rules still undisclosed](https://cryptoslate.com/sec-crypto-custody-rewrite-enters-white-house-review-with-key-rules-still-undisclosed/) — *CryptoSlate*
-- [The Clarity Act will put Main Street banks at a disadvantage](https://www.coindesk.com/opinion/2026/08/27/the-clarity-act-will-put-main-street-banks-at-a-disadvantage) — *CoinDesk*
-- [Morning Minute: Robinhood Chain Levels Up as Memes and RWAs Soar](https://decrypt.co/376689/morning-minute-robinhood-chain-levels-up-as-memes-and-rwas-soar) — *Decrypt*
-- [AI bug reports trigger emergency warning for Bitcoin Lightning node operators](https://www.coindesk.com/tech/2026/08/27/ai-bug-reports-trigger-emergency-warning-for-bitcoin-lightning-node-operators) — *CoinDesk*
+- [Why Nvidia’s Acquisition of Hugging Face Would Reshape Open-Source AI](https://decrypt.co/376725/nvidia-acquisition-hugging-reshape-open-source-ai) — *Decrypt*
+- [Bitcoin’s bottom signal is flashing, but six months of data shows a trap waiting for early buyers](https://cryptoslate.com/bitcoins-bottom-signal-is-flashing-but-six-months-of-data-shows-a-trap-waiting-for-early-buyers/) — *CryptoSlate*
+- [AI가 찾아낸 보안 허점… 코어 라이트닝 긴급 점검 요청](https://www.blockmedia.co.kr/archives/1133076?utm_source=general&utm_medium=rss) — *블록미디어*
+- [GTA 6 leaker cashes out of his own memecoin hours before Rockstar's gameplay reveal](https://www.coindesk.com/business/2026/08/27/gta-6-leaker-cashes-out-of-his-own-memecoin-hours-before-rockstar-s-gameplay-reveal) — *CoinDesk*
+- [Bitcoin Could Overtake Gold in the Next Bull Run: Binance Founder CZ](https://decrypt.co/376717/bitcoin-could-overtake-gold-in-the-next-bull-run-binance-founder-cz) — *Decrypt*
+- [Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform](https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
+- [Polish Olympic chief arrested as prosecutors probe suspected crypto-linked bribe](https://www.coindesk.com/business/2026/08/27/polish-olympic-chief-arrested-as-prosecutors-probe-suspected-crypto-linked-bribe) — *CoinDesk*
+- [하이퍼리퀴드(HYPE), 신고가 돌파하며 ‘가격 발견’ 구간 진입](https://www.blockmedia.co.kr/archives/1133074?utm_source=general&utm_medium=rss) — *블록미디어*
+- [Bitcoin’s 23% rally sends beaten-down miners soaring past AI stocks](https://cointelegraph.com/markets/bitcoin-miner-stocks-rally-crypto-demand-ai-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
+- [UK government reports 240 crypto millionaires in 2025](https://cointelegraph.com/news/uk-government-crypto-millionaires-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
