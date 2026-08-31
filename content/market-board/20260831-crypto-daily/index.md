@@ -1,8 +1,8 @@
 ---
 categories:
 - 시황
-date: '2026-08-31T05:58:22+00:00'
-description: 'BTC $77,968 (-0.2%) | Fear & Greed: 62 (Greed)'
+date: '2026-08-31T09:36:05+00:00'
+description: 'BTC $78,648 (+0.8%) | Fear & Greed: 62 (Greed)'
 draft: false
 tags:
 - 크립토
@@ -18,43 +18,43 @@ title: 크립토 데일리 시황 — 2026-08-31
 
 ## 시장 개요
 
-- 총 시가총액: **$2.62T** (-2.9%)
-- BTC 도미넌스: **59.6%**
+- 총 시가총액: **$2.63T** (-2.4%)
+- BTC 도미넌스: **59.8%**
 
 ## 주요 코인 시세
 
 | 코인 | 가격 | 24h | 7d | 거래량(24h) |
 |------|------|-----|-----|------------|
-| Bitcoin (BTC) | $77,968.00 | -0.2% | +0.9% | $22394M |
-| Ethereum (ETH) | $2,434.25 | -0.9% | -0.6% | $12932M |
-| XRP (XRP) | $1.36 | -2.3% | -7.8% | $2019M |
-| Solana (SOL) | $102.63 | -2.3% | +8.3% | $3411M |
-| Chainlink (LINK) | $11.26 | -1.2% | -1.9% | $337M |
-| Cardano (ADA) | $0.20 | -2.7% | -11.3% | $355M |
-| Avalanche (AVAX) | $7.20 | -1.3% | -4.1% | $183M |
-| Polkadot (DOT) | $0.83 | -1.4% | -9.0% | $121M |
-| Cosmos Hub (ATOM) | $1.48 | -0.6% | -6.6% | $31M |
+| Bitcoin (BTC) | $78,648.00 | +0.8% | +1.5% | $25644M |
+| Ethereum (ETH) | $2,447.31 | -0.3% | -0.3% | $13941M |
+| XRP (XRP) | $1.37 | -0.9% | -6.8% | $2216M |
+| Solana (SOL) | $103.23 | -1.4% | +9.8% | $3700M |
+| Chainlink (LINK) | $11.32 | -0.3% | -2.0% | $360M |
+| Cardano (ADA) | $0.20 | -1.8% | -10.2% | $369M |
+| Avalanche (AVAX) | $7.23 | -1.3% | -3.2% | $194M |
+| Polkadot (DOT) | $0.83 | -1.3% | -7.9% | $125M |
+| Cosmos Hub (ATOM) | $1.48 | +0.3% | -5.6% | $32M |
 | MATIC (migrated to POL) (MATIC) | $0.13 | +0.0% | -18.6% | $0M |
 
 ## 트렌딩 코인
 
-1. **Pons** (PONS) — 마켓캡 순위 #152
-2. **Seeker** (SKR) — 마켓캡 순위 #168
-3. **Helium** (HNT) — 마켓캡 순위 #232
-4. **Pump.fun** (PUMP) — 마켓캡 순위 #50
-5. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #98
-6. **Lighter** (LIT) — 마켓캡 순위 #72
-7. **Cronos** (CRO) — 마켓캡 순위 #36
+1. **Pons** (PONS) — 마켓캡 순위 #144
+2. **Seeker** (SKR) — 마켓캡 순위 #190
+3. **Lighter** (LIT) — 마켓캡 순위 #72
+4. **Solana** (SOL) — 마켓캡 순위 #7
+5. **Helium** (HNT) — 마켓캡 순위 #211
+6. **BOOK OF MEME** (BOME) — 마켓캡 순위 #380
+7. **Bitcoin** (BTC) — 마켓캡 순위 #1
 
 ## 주요 뉴스
 
-- [바클레이즈 “연준, 9월·12월 각 25bp 금리 인상 전망”](https://www.blockmedia.co.kr/archives/1134059?utm_source=general&utm_medium=rss) — *블록미디어*
-- [Zcash private transactions could go from three-second waits to under 200 milliseconds](https://www.coindesk.com/tech/2026/08/31/zcash-private-transactions-could-go-from-three-second-waits-to-under-200-milliseconds) — *CoinDesk*
-- [로빈후드 체인, 이더리움도 제쳤다… 일일 디앱 수익 266만달러 ‘전체 2위’](https://www.blockmedia.co.kr/archives/1134032?utm_source=general&utm_medium=rss) — *블록미디어*
-- [Cronos halts blockchain after $75 million lending exploit hits lending app Tectonic](https://www.coindesk.com/tech/2026/08/31/cronos-halts-blockchain-after-usd75-million-lending-exploit-hits-lending-app-tectonic) — *CoinDesk*
-- [해킹 터지자 블록체인부터 멈췄다…크로노스·포고 잇따라 네트워크 중단](https://www.blockmedia.co.kr/archives/1133997?utm_source=general&utm_medium=rss) — *블록미디어*
-- [Bitcoin barely blinks as U.S. hits Iran, sending oil higher and stocks lower](https://www.coindesk.com/markets/2026/08/31/bitcoin-barely-blinks-as-u-s-hits-iran-sending-oil-higher-and-stocks-lower) — *CoinDesk*
-- [美, 호르무즈 인근 이란 로켓 발사대 타격… 브렌트유 90달러 돌파](https://www.blockmedia.co.kr/archives/1134051?utm_source=general&utm_medium=rss) — *블록미디어*
-- [디지털자산 펀드, 32억달러 유입…2025년 10월 이후 최대](https://www.blockmedia.co.kr/archives/1134050?utm_source=general&utm_medium=rss) — *블록미디어*
-- [[파생시황] 연준 의장 ‘매파 발언’에 3798억원 규모 롱 청산…”7만5000달러까지 밀릴 수도”](https://www.blockmedia.co.kr/archives/1134021?utm_source=general&utm_medium=rss) — *블록미디어*
-- [Cronos halts network after Tectonic exploit involving estimated $75M](https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
+- [레일스, 양자내성 준비 현황 공개…7개 중 5개 요소에서 양재내성 대응](https://www.blockmedia.co.kr/archives/1133996?utm_source=general&utm_medium=rss) — *블록미디어*
+- [[퇴근길시황] 코스피 장중 3.55% 하락 딛고 상승 마감⋯비트코인 7만8000달러 보합](https://www.blockmedia.co.kr/archives/1134188?utm_source=general&utm_medium=rss) — *블록미디어*
+- [More Markets lending reserve drained for $9.3M: Blockaid](https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
+- [[블록미디어 제1기 6차 독자위 회의] “심도 있는 기사로 차별화 필요 ⋯박현주 회장의 알트코인 상장 비판 기사 인상적”](https://www.blockmedia.co.kr/archives/1134094?utm_source=general&utm_medium=rss) — *블록미디어*
+- [A 36-day staking bottleneck is costing Ethereum depositors over $350,000 in lost rewards daily](https://cryptoslate.com/a-36-day-staking-bottleneck-is-costing-ethereum-depositors-over-350000-in-lost-rewards-daily/) — *CryptoSlate*
+- [U.S. jobs report, Russia’s digital ruble rollout: Crypto Week Ahead](https://www.coindesk.com/markets/2026/08/31/u-s-jobs-report-russia-s-digital-ruble-rollout-crypto-week-ahead) — *CoinDesk*
+- [Live updates: Bitcoin holds $78,000 as yen breaks 160 and rate-hike bets lift the dollar](https://www.coindesk.com/tech/2026/08/31/live-updates-bitcoin-holds-usd78-000-as-yen-breaks-160-and-rate-hike-bets-lift-the-dollar) — *CoinDesk*
+- [Russia’s largest bank forecasts $46 billion in first-year crypto exchange trading under new rules: report](https://www.theblock.co/news/business/2026-08-31-russias-largest-bank-forecasts-46-billion-in-first-year-crypto-exchange-trading-under-new-rules-report-413082) — *The Block*
+- [Luke Dashjr exits mining pool Ocean after split over Bitcoin mining’s future](https://www.coindesk.com/business/2026/08/31/luke-dashjr-exits-mining-pool-ocean-after-split-over-bitcoin-mining-s-future) — *CoinDesk*
+- [비트코인 상승 시계 빨라지나…“다음 최고가는 반감기 전 2027년 4분기”](https://www.blockmedia.co.kr/archives/1134146?utm_source=general&utm_medium=rss) — *블록미디어*
