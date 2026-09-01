@@ -1,8 +1,8 @@
 ---
 categories:
 - 시황
-date: '2026-09-01T08:15:41+00:00'
-description: 'BTC $78,310 (+0.2%) | Fear & Greed: 69 (Greed)'
+date: '2026-09-01T11:09:56+00:00'
+description: 'BTC $77,953 (-0.8%) | Fear & Greed: 69 (Greed)'
 draft: false
 tags:
 - 크립토
@@ -18,43 +18,43 @@ title: 크립토 데일리 시황 — 2026-09-01
 
 ## 시장 개요
 
-- 총 시가총액: **$2.65T** (-1.5%)
-- BTC 도미넌스: **59.1%**
+- 총 시가총액: **$2.62T** (-3.1%)
+- BTC 도미넌스: **59.6%**
 
 ## 주요 코인 시세
 
 | 코인 | 가격 | 24h | 7d | 거래량(24h) |
 |------|------|-----|-----|------------|
-| Bitcoin (BTC) | $78,310.00 | +0.2% | -2.4% | $28599M |
-| Ethereum (ETH) | $2,464.42 | +1.0% | -1.1% | $11138M |
-| XRP (XRP) | $1.37 | +0.0% | -8.1% | $1706M |
-| Solana (SOL) | $102.67 | -0.1% | +2.4% | $2935M |
-| Chainlink (LINK) | $11.40 | +1.2% | -2.2% | $404M |
-| Cardano (ADA) | $0.20 | +1.2% | -10.3% | $318M |
-| Avalanche (AVAX) | $7.27 | +0.8% | -3.6% | $147M |
-| Polkadot (DOT) | $0.86 | +4.2% | -4.1% | $124M |
-| Cosmos Hub (ATOM) | $1.49 | +0.2% | -1.8% | $29M |
+| Bitcoin (BTC) | $77,953.00 | -0.8% | -1.5% | $29632M |
+| Ethereum (ETH) | $2,454.23 | +0.1% | -0.7% | $11354M |
+| XRP (XRP) | $1.38 | -0.3% | -6.9% | $1820M |
+| Solana (SOL) | $102.27 | -1.4% | +2.6% | $2985M |
+| Chainlink (LINK) | $11.42 | +1.0% | -1.3% | $414M |
+| Cardano (ADA) | $0.20 | +0.6% | -8.8% | $324M |
+| Avalanche (AVAX) | $7.26 | +0.3% | -3.3% | $151M |
+| Polkadot (DOT) | $0.86 | +4.0% | -3.5% | $131M |
+| Cosmos Hub (ATOM) | $1.49 | +1.1% | -2.5% | $29M |
 | MATIC (migrated to POL) (MATIC) | $0.13 | +0.0% | -18.6% | $0M |
 
 ## 트렌딩 코인
 
-1. **Pons** (PONS) — 마켓캡 순위 #122
+1. **Pons** (PONS) — 마켓캡 순위 #126
 2. **Ramses** (RAM) — 마켓캡 순위 #354
-3. **Arbitrum** (ARB) — 마켓캡 순위 #86
-4. **Uniswap** (UNI) — 마켓캡 순위 #27
-5. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #100
-6. **Pump.fun** (PUMP) — 마켓캡 순위 #49
-7. **Cash Cat** (CASHCAT) — 마켓캡 순위 #163
+3. **up** (UP) — 마켓캡 순위 #679
+4. **Arbitrum** (ARB) — 마켓캡 순위 #84
+5. **Bitcoin** (BTC) — 마켓캡 순위 #1
+6. **Pump.fun** (PUMP) — 마켓캡 순위 #50
+7. **Ondo** (ONDO) — 마켓캡 순위 #51
 
 ## 주요 뉴스
 
-- [테더로 비트코인을 사기만 해도 세금낸다…세법상 USDT에 ‘고시환율’ 적용](https://www.blockmedia.co.kr/archives/1134641?utm_source=general&utm_medium=rss) — *블록미디어*
-- [London Stock Exchange to work with Payward to bring biggest UK stocks onchain](https://www.coindesk.com/markets/2026/09/01/london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain) — *CoinDesk*
-- [Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report](https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
-- [싱가포르 금융당국, 스테이블코인 규제안 제시…보유자 이자 지급 금지](https://www.blockmedia.co.kr/archives/1134649?utm_source=general&utm_medium=rss) — *블록미디어*
-- [정부 내년 예산, AI 5.55조, 창업 1조 쏟는데…162조 미래대응기금서 블록체인은 ‘빈칸’](https://www.blockmedia.co.kr/archives/1134635?utm_source=general&utm_medium=rss) — *블록미디어*
-- [[마감시황] 코스피 0.23% 상승 마감…반도체 자사주 매입에 반등, SK하이닉스↑](https://www.blockmedia.co.kr/archives/1134642?utm_source=general&utm_medium=rss) — *블록미디어*
-- [Strategy hits back at MSCI proposal, calling it ‘discriminatory’ against DATs](https://www.theblock.co/news/business/2026-09-01-strategy-hits-back-against-msci-413201) — *The Block*
-- [How Saylor’s $2 billion capital loop is quietly rewriting the rules of Bitcoin ownership](https://cryptoslate.com/how-saylors-2-billion-capital-loop-is-quietly-rewriting-the-rules-of-bitcoin-ownership/) — *CryptoSlate*
-- [OpenAI’s ‘Trust Us’ TIME cover raises an old warning for AI bulls](https://www.coindesk.com/markets/2026/09/01/time-is-putting-openai-s-founders-on-its-cover-paul-montgomery-s-contrary-indicator-says-hello) — *CoinDesk*
-- [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
+- [비트코인, 8만달러 앞두고 횡보 길어지나…거래소 물량·고래 예치 감소](https://www.blockmedia.co.kr/archives/1134666?utm_source=general&utm_medium=rss) — *블록미디어*
+- [London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT](https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
+- [Singapore proposes 100% reserves and a ban on yields for stablecoin issuers](https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers) — *CoinDesk*
+- [Binance adds options on 1,000 US stocks and ETFs as monthly TradFi perpetual volume hits $433 billion](https://www.theblock.co/news/business/2026-09-01-binance-adds-options-1000-us-stocks-etfs-monthly-tradfi-perpetual-volume-surge-413213) — *The Block*
+- [Bitcoin consolidates near $78,000 as Arbitrum surges 30% on Robinhood Chain revenue](https://www.coindesk.com/markets/2026/09/01/bitcoin-consolidates-near-usd78-000-as-arbitrum-surges-30-on-robinhood-chain-revenue) — *CoinDesk*
+- [XRP investors poured $320M into ETFs while the funds sat on a $746M paper loss](https://cryptoslate.com/xrp-investors-poured-320m-into-etfs-while-the-funds-sat-on-a-746m-paper-loss/) — *CryptoSlate*
+- [해외서 먼저 열린 토큰증권…내년 국내 제도화 앞두고 금융사 잰걸음](https://www.blockmedia.co.kr/archives/1134616?utm_source=general&utm_medium=rss) — *블록미디어*
+- [Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet](https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
+- [Singapore weighs recognizing some foreign-issued stablecoins](https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
+- [UK's National Crime Agency Freezes $13.6M of Premier League Money in Sorare Probe: Report](https://decrypt.co/377006/uks-national-crime-agency-freezes-13-6m-of-premier-league-money-in-sorare-probe-report) — *Decrypt*
