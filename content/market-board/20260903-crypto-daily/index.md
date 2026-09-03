@@ -1,8 +1,8 @@
 ---
 categories:
 - 시황
-date: '2026-09-03T07:57:26+00:00'
-description: 'BTC $77,609 (+0.2%) | Fear & Greed: 65 (Greed)'
+date: '2026-09-03T10:44:26+00:00'
+description: 'BTC $77,456 (+1.2%) | Fear & Greed: 65 (Greed)'
 draft: false
 tags:
 - 크립토
@@ -18,43 +18,43 @@ title: 크립토 데일리 시황 — 2026-09-03
 
 ## 시장 개요
 
-- 총 시가총액: **$2.63T** (-2.2%)
-- BTC 도미넌스: **59.1%**
+- 총 시가총액: **$2.60T** (-2.3%)
+- BTC 도미넌스: **59.5%**
 
 ## 주요 코인 시세
 
 | 코인 | 가격 | 24h | 7d | 거래량(24h) |
 |------|------|-----|-----|------------|
-| Bitcoin (BTC) | $77,609.00 | +0.2% | -1.4% | $27625M |
-| Ethereum (ETH) | $2,397.00 | -0.9% | -3.5% | $13172M |
-| XRP (XRP) | $1.36 | +1.2% | -3.2% | $2535M |
-| Solana (SOL) | $100.29 | +0.4% | -1.0% | $3207M |
-| Chainlink (LINK) | $11.15 | -0.6% | -3.5% | $343M |
-| Cardano (ADA) | $0.20 | +4.1% | -2.3% | $404M |
-| Avalanche (AVAX) | $7.24 | +0.5% | -1.0% | $206M |
-| Polkadot (DOT) | $0.87 | +1.1% | -0.1% | $121M |
-| Cosmos Hub (ATOM) | $1.49 | +1.8% | -0.5% | $29M |
+| Bitcoin (BTC) | $77,456.00 | +1.2% | -2.6% | $25957M |
+| Ethereum (ETH) | $2,389.72 | +1.1% | -5.4% | $11933M |
+| XRP (XRP) | $1.36 | +3.1% | -5.0% | $2406M |
+| Solana (SOL) | $99.91 | +2.0% | -4.2% | $3079M |
+| Chainlink (LINK) | $11.13 | +1.3% | -5.8% | $322M |
+| Cardano (ADA) | $0.21 | +6.5% | -3.8% | $421M |
+| Avalanche (AVAX) | $7.23 | +2.1% | -2.7% | $208M |
+| Polkadot (DOT) | $0.87 | +3.5% | -1.5% | $114M |
+| Cosmos Hub (ATOM) | $1.49 | +2.4% | -1.9% | $28M |
 | MATIC (migrated to POL) (MATIC) | $0.13 | +0.0% | -18.6% | $0M |
 
 ## 트렌딩 코인
 
-1. **Pons** (PONS) — 마켓캡 순위 #118
-2. **Useless Coin** (USELESS) — 마켓캡 순위 #207
-3. **Artificial Inu** (AI) — 마켓캡 순위 #142
-4. **Arbitrum** (ARB) — 마켓캡 순위 #74
-5. **MarsCoin** (MARSCOIN) — 마켓캡 순위 #257
-6. **Lighter** (LIT) — 마켓캡 순위 #70
-7. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #102
+1. **Pons** (PONS) — 마켓캡 순위 #116
+2. **Arbitrum** (ARB) — 마켓캡 순위 #74
+3. **MarsCoin** (MARSCOIN) — 마켓캡 순위 #261
+4. **Cash Cat** (CASHCAT) — 마켓캡 순위 #146
+5. **Useless Coin** (USELESS) — 마켓캡 순위 #205
+6. **Uniswap** (UNI) — 마켓캡 순위 #26
+7. **Pump.fun** (PUMP) — 마켓캡 순위 #49
 
 ## 주요 뉴스
 
-- [Australia warns unlicensed crypto firms of fines up to 10% of annual turnover](https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
-- [멀티코인, HYPE 고점에서 보유량의 약 75% 처분…현재 9050만달러 상당 보유](https://www.blockmedia.co.kr/archives/1135594?utm_source=general&utm_medium=rss) — *블록미디어*
-- [Ether, XRP ETF inflow streaks end as Bitcoin funds rebound](https://cointelegraph.com/markets/eth-xrp-etf-inflow-streaks-end-bitcoin-funds-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
-- [[마감시황] “이란 충격에 6400선 추락”…코스피 살린 ‘1.6조 매수’ 정체](https://www.blockmedia.co.kr/archives/1135639?utm_source=general&utm_medium=rss) — *블록미디어*
-- [Bitcoin’s fabled golden cross is coming. And USDT may be the real signal this time](https://www.coindesk.com/markets/2026/09/03/bitcoin-s-fabled-golden-cross-is-coming-and-usdt-may-be-the-real-signal-this-time) — *CoinDesk*
-- [Ontology forces urgent node upgrade after restarting chain hit by malicious activity](https://cryptoslate.com/ontology-forces-urgent-node-upgrade-after-restarting-chain-hit-by-malicious-activity/) — *CryptoSlate*
-- [비트코인, 2023년 바닥과 ‘판박이’…이번에도 7만달러 조정 뒤 돌파할까](https://www.blockmedia.co.kr/archives/1135621?utm_source=general&utm_medium=rss) — *블록미디어*
-- [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
-- [[펀드플로] BTC ETF만 약 1억달러 유입…ETH·SOL ETF는 순유출](https://www.blockmedia.co.kr/archives/1135601?utm_source=general&utm_medium=rss) — *블록미디어*
-- [Thailand puts private wallets and offshore crypto transfers on notice in a major new crypto rule](https://cryptoslate.com/thailand-puts-private-wallets-and-offshore-crypto-transfers-on-notice-in-a-major-new-crypto-rule/) — *CryptoSlate*
+- [Live updates: Crypto majors bounce while global funds run their lowest dollar hedges since 2015](https://www.coindesk.com/business/2026/09/03/live-updates-crypto-majors-bounce-while-global-funds-run-their-lowest-dollar-hedges-since-2015) — *CoinDesk*
+- [앳킨스 SEC 위원장 “클래리티법 9월 진전 기대”…15일 미 상원 ‘60표 관문’](https://www.blockmedia.co.kr/archives/1135647?utm_source=general&utm_medium=rss) — *블록미디어*
+- [Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally](https://www.coindesk.com/markets/2026/09/03/bitcoin-recovers-toward-usd78-000-as-pons-and-arbitrum-extend-robinhood-chain-rally) — *CoinDesk*
+- [Robinhood put stocks on a permissionless blockchain- memecoin traders are stress-testing what happens next](https://cryptoslate.com/robinhood-put-stocks-on-a-permissionless-blockchain-memecoin-traders-are-stress-testing-what-happens-next/) — *CryptoSlate*
+- [Standard Chartered launches spot Bitcoin and Ether trading in UAE](https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
+- [Australia is cracking down on crypto businesses as its strict new regulatory deadline nears](https://www.coindesk.com/business/2026/09/03/australia-is-cracking-down-on-crypto-businesses-as-its-strict-new-regulatory-deadline-nears) — *CoinDesk*
+- [Ukraine Busts Kyiv Crypto Drainer Ring Moving Up to $1M Monthly](https://decrypt.co/377245/ukraine-busts-kyiv-crypto-drainer-ring-moving-up-to-1m-monthly) — *Decrypt*
+- [Coldcard hacker swaps stolen Bitcoin for ETH via THORChain](https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
+- [Kalshi seeks CFTC approval for WTI crude perpetual futures: Report](https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
+- [[퇴근길시황] 코스피 장중 243포인트 급등락 후 0.26% 상승⋯비트코인 7만7000달러 탈환](https://www.blockmedia.co.kr/archives/1135695?utm_source=general&utm_medium=rss) — *블록미디어*
