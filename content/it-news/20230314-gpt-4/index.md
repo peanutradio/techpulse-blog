@@ -1,19 +1,19 @@
 ---
 categories:
 - IT
-date: '2023-03-14T07:00:00+00:00'
-description: We’ve created GPT-4, the latest milestone in OpenAI’s effort in scaling
-  up deep learning. GPT-4 is a large multimodal model (accepting image and text inputs,
-  em
+date: '2023-03-14T00:00:00+00:00'
+description: It can generate, edit, and iterate with users on creative and technical
+  writing tasks, such as composing songs, writing screenplays, or learning a user’s
+  writin
 draft: false
-original_url: https://openai.com/index/gpt-4-research
+original_url: https://openai.com/index/gpt-4
 source: OpenAI Blog
 tags:
 - Research
 title: GPT-4
 ---
 
-We’ve created GPT-4, the latest milestone in OpenAI’s effort in scaling up deep learning. GPT-4 is a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less capable than humans in many real-world scenarios, exhibits human-level performance on various professional and academic benchmarks.
+It can generate, edit, and iterate with users on creative and technical writing tasks, such as composing songs, writing screenplays, or learning a user’s writing style.
 
 ---
-*원문: [https://openai.com/index/gpt-4-research](https://openai.com/index/gpt-4-research)*
+*원문: [https://openai.com/index/gpt-4](https://openai.com/index/gpt-4)*

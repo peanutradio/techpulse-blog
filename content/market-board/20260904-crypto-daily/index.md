@@ -1,8 +1,8 @@
 ---
 categories:
 - 시황
-date: '2026-09-04T04:59:00+00:00'
-description: 'BTC $81,090 (+4.3%) | Fear & Greed: 74 (Greed)'
+date: '2026-09-04T07:40:44+00:00'
+description: 'BTC $80,763 (+3.6%) | Fear & Greed: 74 (Greed)'
 draft: false
 tags:
 - 크립토
@@ -18,43 +18,43 @@ title: 크립토 데일리 시황 — 2026-09-04
 
 ## 시장 개요
 
-- 총 시가총액: **$2.74T** (+1.2%)
+- 총 시가총액: **$2.73T** (+1.6%)
 - BTC 도미넌스: **59.3%**
 
 ## 주요 코인 시세
 
 | 코인 | 가격 | 24h | 7d | 거래량(24h) |
 |------|------|-----|-----|------------|
-| Bitcoin (BTC) | $81,090.00 | +4.3% | +1.2% | $40806M |
-| Ethereum (ETH) | $2,509.05 | +4.3% | +0.6% | $17132M |
-| XRP (XRP) | $1.45 | +6.1% | +0.9% | $4069M |
-| Solana (SOL) | $103.92 | +3.1% | -2.6% | $4126M |
-| Chainlink (LINK) | $11.93 | +6.2% | +1.3% | $496M |
-| Cardano (ADA) | $0.22 | +8.0% | +6.8% | $706M |
-| Avalanche (AVAX) | $7.50 | +2.9% | +0.8% | $248M |
-| Polkadot (DOT) | $0.87 | -0.6% | +1.0% | $125M |
-| Cosmos Hub (ATOM) | $1.52 | +3.4% | -1.9% | $31M |
+| Bitcoin (BTC) | $80,763.00 | +3.6% | +1.3% | $40404M |
+| Ethereum (ETH) | $2,506.62 | +4.1% | +0.5% | $17012M |
+| XRP (XRP) | $1.44 | +5.1% | +1.6% | $4007M |
+| Solana (SOL) | $103.61 | +2.7% | -3.4% | $4029M |
+| Chainlink (LINK) | $11.92 | +5.9% | +0.7% | $487M |
+| Cardano (ADA) | $0.22 | +7.3% | +5.3% | $705M |
+| Avalanche (AVAX) | $7.47 | +2.6% | +0.0% | $255M |
+| Polkadot (DOT) | $0.87 | -0.6% | +0.3% | $127M |
+| Cosmos Hub (ATOM) | $1.52 | +1.7% | -0.3% | $29M |
 | MATIC (migrated to POL) (MATIC) | $0.13 | +0.0% | -18.6% | $0M |
 
 ## 트렌딩 코인
 
-1. **Pons** (PONS) — 마켓캡 순위 #112
-2. **Lighter** (LIT) — 마켓캡 순위 #69
-3. **Uniswap** (UNI) — 마켓캡 순위 #27
-4. **Lil' Shrub** (SHRUB) — 마켓캡 순위 #756
-5. **Zcash** (ZEC) — 마켓캡 순위 #11
-6. **Useless Coin** (USELESS) — 마켓캡 순위 #169
-7. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #103
+1. **Pons** (PONS) — 마켓캡 순위 #113
+2. **Zcash** (ZEC) — 마켓캡 순위 #11
+3. **Useless Coin** (USELESS) — 마켓캡 순위 #158
+4. **Lil' Shrub** (SHRUB) — 마켓캡 순위 #859
+5. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #103
+6. **Hyperliquid** (HYPE) — 마켓캡 순위 #10
+7. **Uniswap** (UNI) — 마켓캡 순위 #27
 
 ## 주요 뉴스
 
-- [[펀드플로] 이더리움 ETF 1.41억달러 순유입 전환…블랙록·피델리티가 주도](https://www.blockmedia.co.kr/archives/1136107?utm_source=general&utm_medium=rss) — *블록미디어*
-- [[펀드플로] 비트코인 ETF 하루 7.3억달러 순유입…블랙록 IBIT에 4.54억달러 집중](https://www.blockmedia.co.kr/archives/1136103?utm_source=general&utm_medium=rss) — *블록미디어*
-- [US, UK launch joint alliance targeting crypto scam centers](https://cointelegraph.com/news/us-uk-joint-alliance-crypto-scam-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
-- [Bitcoin back above $81,000 as hike odds fade, Zcash leads with 15% jump](https://www.coindesk.com/markets/2026/09/04/bitcoin-back-above-usd81-000-as-hike-odds-fade-zcash-leads-with-15-jump) — *CoinDesk*
-- [코인베이스, SEC에 개별주식 무기한 선물 도입 위한 서류 제출](https://www.blockmedia.co.kr/archives/1136063?utm_source=general&utm_medium=rss) — *블록미디어*
-- [“이더리움은 말보다 결과”…프라이버시·AI·RWA 앞세워 ’35개 성과’ 공개](https://www.blockmedia.co.kr/archives/1136026?utm_source=general&utm_medium=rss) — *블록미디어*
-- [U.S. banking agency gives blockchain bank OpenReserve initial OK to operate](https://www.coindesk.com/policy/2026/09/03/u-s-banking-agency-gives-blockchain-bank-openreserve-initial-ok-to-operate) — *CoinDesk*
-- [AMC CEO blasts Robinhood for stock token, putting synthetic shares in spotlight](https://www.coindesk.com/business/2026/09/03/amc-ceo-blasts-robinhood-for-stock-token-putting-synthetic-shares-in-spotlight) — *CoinDesk*
-- [액세스프로토콜, KBW 2026 후원 파트너 합류](https://www.blockmedia.co.kr/archives/1135947?utm_source=general&utm_medium=rss) — *블록미디어*
-- [Monad’s mainnet upgrade makes storing data together 98% cheaper](https://cryptoslate.com/monads-mainnet-upgrade-makes-storing-data-together-98-cheaper/) — *CryptoSlate*
+- [Live updates: Bitcoin ETFs take $731 million, their biggest day since January](https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january) — *CoinDesk*
+- [[마감시황] 코스피, 美금리 동결 기대에 1.6% 상승 마감…반도체주 강세](https://www.blockmedia.co.kr/archives/1136168?utm_source=general&utm_medium=rss) — *블록미디어*
+- [After selling every coin it owned, a public company is using Strategy’s STRC playbook to restart its $827M Bitcoin treasury plan](https://cryptoslate.com/after-selling-every-coin-it-owned-a-public-company-is-using-strategys-strc-playbook-to-restart-its-827m-bitcoin-treasury-plan/) — *CryptoSlate*
+- [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
+- [El Salvador’s post-review Bitcoin accumulation used no public funds: IMF](https://cointelegraph.com/news/el-salvador-bitcoin-private-donations-imf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
+- [미·영, 디지털자산 투자사기 공조 강화한다…글로벌 사기 조직 ‘공동 대응’](https://www.blockmedia.co.kr/archives/1136146?utm_source=general&utm_medium=rss) — *블록미디어*
+- [OpenAI puts $1 billion behind cyber defense after unveiling AI that can find zero-days](https://www.coindesk.com/tech/2026/09/04/openai-puts-usd1-billion-behind-cyber-defense-after-unveiling-ai-that-can-find-zero-days) — *CoinDesk*
+- [Bitcoin’s volatility ratio against gold collapses to 6-year low as traditional safe haven turbulence surges](https://cryptoslate.com/bitcoin-and-gold-are-converging-in-a-way-markets-havent-seen-since-2020/) — *CryptoSlate*
+- [One full bitcoin now buys a little more than 18 ounces of gold, the most since January](https://www.coindesk.com/markets/2026/09/04/one-full-bitcoin-now-buys-a-little-more-than-18-ounces-of-gold-the-most-since-january) — *CoinDesk*
+- [피델리티 “비트코인 바닥? 아직 안 왔거나 지났을 수도”… 11월 ‘4년 주기설’ 시험대](https://www.blockmedia.co.kr/archives/1136084?utm_source=general&utm_medium=rss) — *블록미디어*
