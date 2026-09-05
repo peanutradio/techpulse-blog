@@ -1,8 +1,8 @@
 ---
 categories:
 - 시황
-date: '2026-09-05T04:51:11+00:00'
-description: 'BTC $79,551 (-1.9%) | Fear & Greed: 73 (Greed)'
+date: '2026-09-05T07:28:12+00:00'
+description: 'BTC $79,711 (-1.4%) | Fear & Greed: 73 (Greed)'
 draft: false
 tags:
 - 크립토
@@ -18,36 +18,39 @@ title: 크립토 데일리 시황 — 2026-09-05
 
 ## 시장 개요
 
-- 총 시가총액: **$2.69T** (-3.9%)
+- 총 시가총액: **$2.70T** (-3.6%)
 - BTC 도미넌스: **59.1%**
 
 ## 주요 코인 시세
 
 | 코인 | 가격 | 24h | 7d | 거래량(24h) |
 |------|------|-----|-----|------------|
-| Bitcoin (BTC) | $79,551.00 | -1.9% | +2.5% | $32727M |
-| Ethereum (ETH) | $2,450.00 | -2.4% | +0.6% | $14895M |
-| XRP (XRP) | $1.40 | -3.6% | +1.1% | $2730M |
-| Solana (SOL) | $101.79 | -2.0% | -2.0% | $3180M |
-| Chainlink (LINK) | $11.64 | -2.5% | +2.5% | $427M |
-| Cardano (ADA) | $0.21 | -6.0% | +4.3% | $530M |
-| Avalanche (AVAX) | $7.41 | -1.2% | +1.6% | $216M |
-| Polkadot (DOT) | $0.89 | +1.3% | +5.7% | $153M |
-| Cosmos Hub (ATOM) | $1.53 | +1.2% | +2.1% | $29M |
+| Bitcoin (BTC) | $79,711.00 | -1.4% | +2.6% | $31993M |
+| Ethereum (ETH) | $2,455.48 | -2.2% | +0.6% | $14226M |
+| XRP (XRP) | $1.40 | -3.0% | +1.1% | $2596M |
+| Solana (SOL) | $102.49 | -1.2% | -1.6% | $3051M |
+| Chainlink (LINK) | $11.74 | -1.8% | +3.1% | $425M |
+| Cardano (ADA) | $0.21 | -3.8% | +5.9% | $530M |
+| Avalanche (AVAX) | $7.48 | -0.2% | +2.0% | $207M |
+| Polkadot (DOT) | $0.91 | +4.1% | +8.3% | $159M |
+| Cosmos Hub (ATOM) | $1.55 | +2.4% | +3.1% | $32M |
 | MATIC (migrated to POL) (MATIC) | $0.13 | +0.0% | -18.6% | $0M |
 
 ## 트렌딩 코인
 
-1. **Lil' Shrub** (SHRUB) — 마켓캡 순위 #409
-2. **Pons** (PONS) — 마켓캡 순위 #111
-3. **Dash** (DASH) — 마켓캡 순위 #79
+1. **Dash** (DASH) — 마켓캡 순위 #76
+2. **Lil' Shrub** (SHRUB) — 마켓캡 순위 #363
+3. **Pons** (PONS) — 마켓캡 순위 #104
 4. **Zcash** (ZEC) — 마켓캡 순위 #11
-5. **Lighter** (LIT) — 마켓캡 순위 #69
-6. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #103
-7. **NEAR Protocol** (NEAR) — 마켓캡 순위 #34
+5. **Cash Cat** (CASHCAT) — 마켓캡 순위 #158
+6. **MarsCoin** (MARSCOIN) — 마켓캡 순위 #180
+7. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #103
 
 ## 주요 뉴스
 
+- [Wall Street is turning AI’s massive electricity appetite into a $61 billion bond market](https://cryptoslate.com/wall-street-is-turning-ais-massive-electricity-appetite-into-a-61-billion-bond-market/) — *CryptoSlate*
+- [XRP Ledger has fewer active accounts than last year, but bigger trades and more value](https://www.coindesk.com/markets/2026/09/05/xrp-ledger-has-fewer-active-accounts-but-bigger-trades-and-more-value) — *CoinDesk*
+- [Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms](https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms) — *CoinDesk*
 - [Bitcoin dips below $80,000 as a hot August jobs report shifts Fed policy expectations](https://cryptoslate.com/bitcoins-80000-rally-just-lost-the-feds-labor-market-escape-hatch/) — *CryptoSlate*
 - [ARB, 로빈후드 체인 수수료 급등에 반등세…일주일 간 50% 상승](https://www.blockmedia.co.kr/archives/1136468?utm_source=general&utm_medium=rss) — *블록미디어*
 - [솔라나, AI 결제에 ‘페이먼트 채널’ 띄웠다…이더리움과 차세대 인프라 경쟁](https://www.blockmedia.co.kr/archives/1136130?utm_source=general&utm_medium=rss) — *블록미디어*
@@ -55,6 +58,3 @@ title: 크립토 데일리 시황 — 2026-09-05
 - [토큰화 주식 거래량 사상 최고…다음 승부처는 ‘온체인 금융’](https://www.blockmedia.co.kr/archives/1136458?utm_source=general&utm_medium=rss) — *블록미디어*
 - [“우리 주식 토큰화하지 마”…AMC vs 로빈후드, ‘주식 토큰’ 정면충돌(종합)](https://www.blockmedia.co.kr/archives/1136439?utm_source=general&utm_medium=rss) — *블록미디어*
 - [비트코인, 다시 금처럼 움직인다…상한선은 여전히 ‘연준 정책’ 영향](https://www.blockmedia.co.kr/archives/1136428?utm_source=general&utm_medium=rss) — *블록미디어*
-- [[주간파생] 8.2만달러 문 두드린 비트코인… “9만달러냐, 롱 청산 폭탄이냐”](https://www.blockmedia.co.kr/archives/1136048?utm_source=general&utm_medium=rss) — *블록미디어*
-- [백악관, CFTC 공석 4자리 후보 검증…디지털자산 규제 향방은](https://www.blockmedia.co.kr/archives/1136416?utm_source=general&utm_medium=rss) — *블록미디어*
-- [A major outage and corporate backlash hit Robinhood Chain at the peak of its growth](https://cryptoslate.com/a-major-outage-and-corporate-backlash-hit-robinhood-chain-at-the-peak-of-its-growth/) — *CryptoSlate*
