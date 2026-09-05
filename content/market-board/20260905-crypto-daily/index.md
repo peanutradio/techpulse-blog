@@ -1,8 +1,8 @@
 ---
 categories:
 - 시황
-date: '2026-09-05T04:07:53+00:00'
-description: 'BTC $79,591 (-1.6%) | Fear & Greed: 73 (Greed)'
+date: '2026-09-05T04:51:11+00:00'
+description: 'BTC $79,551 (-1.9%) | Fear & Greed: 73 (Greed)'
 draft: false
 tags:
 - 크립토
@@ -18,33 +18,33 @@ title: 크립토 데일리 시황 — 2026-09-05
 
 ## 시장 개요
 
-- 총 시가총액: **$2.70T** (-3.9%)
+- 총 시가총액: **$2.69T** (-3.9%)
 - BTC 도미넌스: **59.1%**
 
 ## 주요 코인 시세
 
 | 코인 | 가격 | 24h | 7d | 거래량(24h) |
 |------|------|-----|-----|------------|
-| Bitcoin (BTC) | $79,591.00 | -1.6% | +2.5% | $33135M |
-| Ethereum (ETH) | $2,453.00 | -2.0% | +0.6% | $15081M |
-| XRP (XRP) | $1.40 | -3.3% | +1.1% | $2761M |
-| Solana (SOL) | $101.89 | -1.8% | -2.0% | $3193M |
-| Chainlink (LINK) | $11.66 | -1.8% | +2.5% | $433M |
-| Cardano (ADA) | $0.21 | -5.8% | +4.3% | $543M |
-| Avalanche (AVAX) | $7.40 | -1.2% | +1.6% | $217M |
-| Polkadot (DOT) | $0.89 | +2.0% | +5.7% | $155M |
-| Cosmos Hub (ATOM) | $1.53 | +1.7% | +2.1% | $29M |
+| Bitcoin (BTC) | $79,551.00 | -1.9% | +2.5% | $32727M |
+| Ethereum (ETH) | $2,450.00 | -2.4% | +0.6% | $14895M |
+| XRP (XRP) | $1.40 | -3.6% | +1.1% | $2730M |
+| Solana (SOL) | $101.79 | -2.0% | -2.0% | $3180M |
+| Chainlink (LINK) | $11.64 | -2.5% | +2.5% | $427M |
+| Cardano (ADA) | $0.21 | -6.0% | +4.3% | $530M |
+| Avalanche (AVAX) | $7.41 | -1.2% | +1.6% | $216M |
+| Polkadot (DOT) | $0.89 | +1.3% | +5.7% | $153M |
+| Cosmos Hub (ATOM) | $1.53 | +1.2% | +2.1% | $29M |
 | MATIC (migrated to POL) (MATIC) | $0.13 | +0.0% | -18.6% | $0M |
 
 ## 트렌딩 코인
 
-1. **Lil' Shrub** (SHRUB) — 마켓캡 순위 #424
-2. **Zcash** (ZEC) — 마켓캡 순위 #11
+1. **Lil' Shrub** (SHRUB) — 마켓캡 순위 #409
+2. **Pons** (PONS) — 마켓캡 순위 #111
 3. **Dash** (DASH) — 마켓캡 순위 #79
-4. **Pons** (PONS) — 마켓캡 순위 #108
+4. **Zcash** (ZEC) — 마켓캡 순위 #11
 5. **Lighter** (LIT) — 마켓캡 순위 #69
-6. **Cash Cat** (CASHCAT) — 마켓캡 순위 #165
-7. **Useless Coin** (USELESS) — 마켓캡 순위 #163
+6. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #103
+7. **NEAR Protocol** (NEAR) — 마켓캡 순위 #34
 
 ## 주요 뉴스
 
