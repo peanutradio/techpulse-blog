@@ -1,8 +1,8 @@
 ---
 categories:
 - 시황
-date: '2026-09-06T04:59:00+00:00'
-description: 'BTC $79,879 (+0.4%) | Fear & Greed: 73 (Greed)'
+date: '2026-09-06T10:20:15+00:00'
+description: 'BTC $79,959 (+0.4%) | Fear & Greed: 73 (Greed)'
 draft: false
 tags:
 - 크립토
@@ -18,43 +18,43 @@ title: 크립토 데일리 시황 — 2026-09-06
 
 ## 시장 개요
 
-- 총 시가총액: **$2.70T** (-2.3%)
+- 총 시가총액: **$2.70T** (-2.6%)
 - BTC 도미넌스: **59.2%**
 
 ## 주요 코인 시세
 
 | 코인 | 가격 | 24h | 7d | 거래량(24h) |
 |------|------|-----|-----|------------|
-| Bitcoin (BTC) | $79,879.00 | +0.4% | +2.5% | $19257M |
-| Ethereum (ETH) | $2,503.46 | +2.2% | +2.2% | $7941M |
-| XRP (XRP) | $1.42 | +1.6% | +2.3% | $1536M |
-| Solana (SOL) | $105.79 | +3.9% | +0.7% | $2960M |
-| Chainlink (LINK) | $12.15 | +4.4% | +7.1% | $434M |
-| Cardano (ADA) | $0.22 | +4.8% | +11.0% | $440M |
-| Avalanche (AVAX) | $7.65 | +3.3% | +5.8% | $235M |
-| Polkadot (DOT) | $0.93 | +4.5% | +11.0% | $118M |
-| Cosmos Hub (ATOM) | $1.57 | +1.9% | +6.2% | $30M |
+| Bitcoin (BTC) | $79,959.00 | +0.4% | +2.3% | $20208M |
+| Ethereum (ETH) | $2,499.50 | +1.7% | +1.7% | $8668M |
+| XRP (XRP) | $1.42 | +0.9% | +2.0% | $1562M |
+| Solana (SOL) | $106.70 | +4.1% | +1.6% | $3588M |
+| Chainlink (LINK) | $12.28 | +4.2% | +7.9% | $446M |
+| Cardano (ADA) | $0.22 | +2.8% | +9.4% | $443M |
+| Avalanche (AVAX) | $7.66 | +2.1% | +4.5% | $212M |
+| Polkadot (DOT) | $0.95 | +3.7% | +12.2% | $128M |
+| Cosmos Hub (ATOM) | $1.60 | +3.6% | +7.9% | $29M |
 | MATIC (migrated to POL) (MATIC) | $0.13 | +0.0% | -18.6% | $0M |
 
 ## 트렌딩 코인
 
-1. **Firo** (FIRO) — 마켓캡 순위 #939
-2. **Arbitrum** (ARB) — 마켓캡 순위 #64
-3. **Pons** (PONS) — 마켓캡 순위 #95
-4. **Lil' Shrub** (SHRUB) — 마켓캡 순위 #658
-5. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #102
-6. **Uniswap** (UNI) — 마켓캡 순위 #22
-7. **Raydium** (RAY) — 마켓캡 순위 #135
+1. **Firo** (FIRO) — 마켓캡 순위 #875
+2. **CLUSTER PROTOCOL** (CP) — 마켓캡 순위 #541
+3. **Zcash** (ZEC) — 마켓캡 순위 #9
+4. **Arbitrum** (ARB) — 마켓캡 순위 #64
+5. **Pons** (PONS) — 마켓캡 순위 #93
+6. **Lil' Shrub** (SHRUB) — 마켓캡 순위 #679
+7. **Pudgy Penguins** (PENGU) — 마켓캡 순위 #102
 
 ## 주요 뉴스
 
+- [[코인 크라임] 투자자 만나러 간 뒤 ‘토막 시신’으로 발견된 부부… 범인 정체는](https://www.blockmedia.co.kr/archives/1136165?utm_source=general&utm_medium=rss) — *블록미디어*
+- [Strategy and Robinhood now lead a $4.5 billion large-cap ETF that was not built for crypto](https://cryptoslate.com/strategy-and-robinhood-now-lead-a-4-5-billion-large-cap-etf-that-was-not-built-for-crypto/) — *CryptoSlate*
+- [Tether-backed Orionx to shut down after audit flags $7M custody gap](https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — *CoinTelegraph*
+- [솔라나 계정 예치금 90% 낮춘다… SOL 수요 줄어드나](https://www.blockmedia.co.kr/archives/1136573?utm_source=general&utm_medium=rss) — *블록미디어*
+- [From power laws to AI networks, why complex Bitcoin price models memorize market noise](https://cryptoslate.com/the-smartest-bitcoin-price-models-keep-losing-to-the-dumbest-forecast/) — *CryptoSlate*
+- [‘사토시 시대’ 고래 깨어났다…  2800만달러 물량 ‘꿈틀’](https://www.blockmedia.co.kr/archives/1136564?utm_source=general&utm_medium=rss) — *블록미디어*
 - [F1 ‘깜짝 폴포지션’ 가슬리에 팬토큰도 들썩…ALPINE 3.6%↑](https://www.blockmedia.co.kr/archives/1136580?utm_source=general&utm_medium=rss) — *블록미디어*
 - [시바이누, 선물시장서 거래 확산…미결제약정 19% 급증](https://www.blockmedia.co.kr/archives/1136576?utm_source=general&utm_medium=rss) — *블록미디어*
 - [마치 빅 브라더, FRIEND 1500% 급등시킨 뒤 돌연 “100만달러 인수 철회”](https://www.blockmedia.co.kr/archives/1136563?utm_source=general&utm_medium=rss) — *블록미디어*
 - [빌 게이츠 “비트코인은 ‘광기에 움직이는 자산’…장기투자는 주식이 낫다”](https://www.blockmedia.co.kr/archives/1136557?utm_source=general&utm_medium=rss) — *블록미디어*
-- [한은 “달러 스테이블코인 수요 늘면 원화 등 현지 통화 약세 압력”](https://www.blockmedia.co.kr/archives/1136555?utm_source=general&utm_medium=rss) — *블록미디어*
-- [비트코인, 한때 다시 8만달러 위로…미 물가 둔화에 금리인상 전망 ‘흔들’](https://www.blockmedia.co.kr/archives/1136552?utm_source=general&utm_medium=rss) — *블록미디어*
-- [캐시 우드, 로빈후드 주식 360만달러어치 매수…AMC와 법적 공방 속 베팅](https://www.blockmedia.co.kr/archives/1136550?utm_source=general&utm_medium=rss) — *블록미디어*
-- [‘누드화 AI’ 빗장 걸어 잠근 미 법원…머스크의 xAI 판정패](https://www.blockmedia.co.kr/archives/1136548?utm_source=general&utm_medium=rss) — *블록미디어*
-- [[뉴욕 코인시황] 비트코인 8만달러선 공방…고용 충격·미-이란 긴장에도 알트코인 반등](https://www.blockmedia.co.kr/archives/1136545?utm_source=general&utm_medium=rss) — *블록미디어*
-- [“경제 강하다” vs “부채 폭탄”… 미 장기 국채금리 폭등에 연준·월가 ‘맞불’](https://www.blockmedia.co.kr/archives/1136543?utm_source=general&utm_medium=rss) — *블록미디어*
