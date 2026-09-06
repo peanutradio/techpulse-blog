@@ -1,23 +1,31 @@
 name: RSS 수집
 
 on:
-  schedule:
-    # Azure       : 월/목 09:00 KST (= 00:00 UTC) — --board ms
-    - cron: '0 0 * * 1,4'
-    # GitHub      : 월/목 12:00 KST (= 03:00 UTC) — --board ms
-    - cron: '0 3 * * 1,4'
-    # AI Foundry  : 화/금 09:00 KST (= 00:00 UTC) — --board ms
-    - cron: '0 0 * * 2,5'
-    # Fabric      : 화/금 12:00 KST (= 03:00 UTC) — --board ms
-    - cron: '0 3 * * 2,5'
-    # 보안 & 컴플라이언스: 수/토 09:00 KST (= 00:00 UTC) — --board ms
-    - cron: '0 0 * * 3,6'
-    # M365 & Copilot     : 수/토 12:00 KST (= 03:00 UTC) — --board ms
-    - cron: '0 3 * * 3,6'
-    # IT 소식     : 매일 15:00 KST (= 06:00 UTC) — --board it
-    - cron: '0 6 * * *'
-    # 주식/크립토 시황 : 매일 09:00 KST (= 00:00 UTC) — --board market
-    - cron: '30 0 * * *'
+  # ⛔ 2026-09-07 자동 수집 중단
+  #
+  # 블로그를 peanutradio.github.io 로 통합하면서 RSS 자동수집을 껐다.
+  # 수집된 글 2,209편과 이 저장소는 보존하되, 새로 쌓지 않는다.
+  # 되살리려면 아래 schedule 블록의 주석을 풀면 된다.
+  # (수동 실행은 workflow_dispatch 로 계속 가능)
+  #
+#  schedule:
+#    # Azure       : 월/목 09:00 KST (= 00:00 UTC) — --board ms
+#    - cron: '0 0 * * 1,4'
+#    # GitHub      : 월/목 12:00 KST (= 03:00 UTC) — --board ms
+#    - cron: '0 3 * * 1,4'
+#    # AI Foundry  : 화/금 09:00 KST (= 00:00 UTC) — --board ms
+#    - cron: '0 0 * * 2,5'
+#    # Fabric      : 화/금 12:00 KST (= 03:00 UTC) — --board ms
+#    - cron: '0 3 * * 2,5'
+#    # 보안 & 컴플라이언스: 수/토 09:00 KST (= 00:00 UTC) — --board ms
+#    - cron: '0 0 * * 3,6'
+#    # M365 & Copilot     : 수/토 12:00 KST (= 03:00 UTC) — --board ms
+#    - cron: '0 3 * * 3,6'
+#    # IT 소식     : 매일 15:00 KST (= 06:00 UTC) — --board it
+#    - cron: '0 6 * * *'
+#    # 주식/크립토 시황 : 매일 09:00 KST (= 00:00 UTC) — --board market
+#    - cron: '30 0 * * *'
+
   workflow_dispatch:
     inputs:
       board:
